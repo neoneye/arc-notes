@@ -29,3 +29,12 @@ I have submitted a PR that fixes it.
 - Authors: Yudong (Will) Xu, Wenhao Li, Pashootan Vaezipoor, Scott Sanner, Elias B. Khalil
 - License: Unspecified
 
+
+# Task generators
+
+## ARC gym
+
+- Repo [ARC gym](https://github.com/SimonOuellette35/ARC_gym)
+- Authors: Simon Ouellette
+- License: Unspecified
+
