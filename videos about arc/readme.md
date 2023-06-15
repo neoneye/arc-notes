@@ -28,7 +28,7 @@
 
 ---
 
-- [The Hardest Kaggle Challenge)](https://youtu.be/K5KDZLHsr1o) by Siraj Raval.
+- [The Hardest Kaggle Challenge](https://youtu.be/K5KDZLHsr1o) by Siraj Raval.
 - Duration: 40m253.
 
 
