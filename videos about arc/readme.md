@@ -116,6 +116,11 @@
 - Duration: 41m58s, the entire talk.
 - Duration: 4m00s, about ARC.
 
+---
+
+- [Learn Data Science by Doing Kaggle Competitions: Abstraction and Reasoning Challenge (ARC)](https://youtu.be/8siI9KyOwX0) by Matt Emery.
+- Duration: 1h38m.
+
 
 # Using language models / transformers
 
