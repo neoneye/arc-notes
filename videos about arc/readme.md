@@ -174,3 +174,8 @@
 - [Status update](https://youtu.be/ulojJYmTNsY) by Valko Milev.
 - Duration: 1m55s.
 
+---
+
+- [Output size tool for ARC (Abstraction and Reasoning Corpus)](https://youtu.be/u-A8IpVhMns) by Simon Strandgaard.
+- Duration: 1m02s.
+
