@@ -124,6 +124,11 @@
 
 # Using language models / transformers
 
+- [An approach to solve the Abstraction and Reasoning Corpus (ARC) Challenge with GPT4!](https://youtu.be/plVRxP8hQHY) by John Tan Chong Min.
+- Duration: 2h01m.
+
+---
+
 - [Can GPT4 solve the Abstraction and Reasoning Corpus (ARC) Challenge Zero-Shot?](https://youtu.be/vt2yG1da8Fg) by John Tan Chong Min.
 - Duration: 23m18s.
 
