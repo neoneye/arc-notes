@@ -46,3 +46,9 @@ I have submitted a PR that fixes it.
 - Authors: Simon Ouellette
 - License: Unspecified
 
+## BabyARC
+
+- Repo: [BabyARC](https://github.com/frankaging/BabyARC)
+- Authors: Zhengxuan Wu.
+- License: MIT
+
