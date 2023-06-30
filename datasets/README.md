@@ -1,5 +1,7 @@
 # Datasets for ARC (Abstraction and Reasoning Corpus)
 
+For simplicity, all the datasets are contained in a [single repo](https://github.com/neoneye/arc-dataset-collection).
+
 These datasets all follow the same json format as the original ARC dataset.
 
 ## The original ARC dataset
@@ -28,6 +30,12 @@ I have submitted a PR that fixes it.
 - Repo: [1D-ARC](https://github.com/khalil-research/1D-ARC/tree/main/dataset)
 - Authors: Yudong (Will) Xu, Wenhao Li, Pashootan Vaezipoor, Scott Sanner, Elias B. Khalil
 - License: Unspecified
+
+## `ARC_synthetic_extend`
+
+- Repo: [ARC_synthetic_extend](https://github.com/frankaging/ARC_synthetic_extend)
+- Authors: Zhengxuan Wu.
+- License: MIT
 
 
 # Task generators
