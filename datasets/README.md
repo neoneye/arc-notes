@@ -33,7 +33,7 @@ I have submitted a PR that fixes it.
 
 ## Sequence\_ARC
 
-- Repo: [1D_ARC](https://github.com/seedling123/Sequence_ARC)
+- Repo: [Sequence_ARC](https://github.com/seedling123/Sequence_ARC)
 - Authors: Seedling123
 - License: Apache-2.0 license
 
