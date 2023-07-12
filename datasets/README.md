@@ -31,13 +31,13 @@ I have submitted a PR that fixes it.
 - Authors: Yudong (Will) Xu, Wenhao Li, Pashootan Vaezipoor, Scott Sanner, Elias B. Khalil
 - License: Unspecified
 
-## 1D\_ARC by Seedling123
+## Sequence\_ARC
 
-- Repo: [1D_ARC](https://github.com/seedling123/1D_ARC)
+- Repo: [1D_ARC](https://github.com/seedling123/Sequence_ARC)
 - Authors: Seedling123
 - License: Apache-2.0 license
 
-## `ARC_synthetic_extend`
+## ARC\_synthetic\_extend
 
 - Repo: [ARC_synthetic_extend](https://github.com/frankaging/ARC_synthetic_extend)
 - Authors: Zhengxuan Wu.
