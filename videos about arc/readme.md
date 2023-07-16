@@ -184,3 +184,8 @@
 - [Output size tool for ARC (Abstraction and Reasoning Corpus)](https://youtu.be/u-A8IpVhMns) by Simon Strandgaard.
 - Duration: 1m02s.
 
+---
+
+- [Tracking of objects between input and output - ARC (Abstraction and Reasoning Corpus)](https://www.youtube.com/watch?v=GDQoVlyfAZQ) by Simon Strandgaard.
+- Duration: 0m44s.
+
