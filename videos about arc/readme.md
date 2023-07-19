@@ -189,3 +189,7 @@
 - [Tracking of objects between input and output - ARC (Abstraction and Reasoning Corpus)](https://www.youtube.com/watch?v=GDQoVlyfAZQ) by Simon Strandgaard.
 - Duration: 0m44s.
 
+---
+
+- [Problem Solving Interface of O2ARC_V2](https://youtu.be/0TtQ8dCr3tQ) by Doyoon Song, Ohhyeon Kwon, Min taek Lim, Janghyeok Han. [Explanation](https://doyoonsong.vercel.app/ARC_project).
+- Duration: 0m49s.
