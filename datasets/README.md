@@ -58,3 +58,9 @@ I have submitted a PR that fixes it.
 - Authors: Zhengxuan Wu.
 - License: MIT
 
+
+# Corrections to the original ARC dataset
+
+- Code: [data-preprocessing-correcting-tasks-with-errors](https://www.kaggle.com/code/ademiquel/data-preprocessing-correcting-tasks-with-errors/notebook)
+- Authors: Alejandro de Miquel
+- License: Unspecified
