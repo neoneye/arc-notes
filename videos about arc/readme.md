@@ -191,5 +191,10 @@
 
 ---
 
+- [ARC (Abstraction and Reasoning Corpus) mutations printed to console](https://youtu.be/dHl2L15iDlk) by Simon Strandgaard.
+- Duration: 6m44s.
+
+---
+
 - [Problem Solving Interface of O2ARC_V2](https://youtu.be/0TtQ8dCr3tQ) by Doyoon Song, Ohhyeon Kwon, Min taek Lim, Janghyeok Han. [Explanation](https://doyoonsong.vercel.app/ARC_project).
 - Duration: 0m49s.
