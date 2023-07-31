@@ -148,6 +148,11 @@
 - [ARTI – An ARC Challenge Solver Architecture](https://youtu.be/-3Hb7DOzYxg) by Mindware Consulting, Inc.
 - Duration: 15m13s.
 
+---
+
+- [GPT 4: The Progress of AI, ConceptARC Challenge AI Paper Explained](https://youtu.be/2ep5-0AlKMA) by Harry Mapodile.
+- Duration: 7m33s.
+
 
 # Various
 
