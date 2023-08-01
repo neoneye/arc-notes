@@ -14,6 +14,7 @@
 
 * [Lab42 Discord server](https://discord.gg/waRCYPEc6C) - Several channels for discussing ARC.
 * [Yannic Kilcher's Discord server](https://ykilcher.com/discord) - Every Sunday 1700 UTC there is a voice meeting for only discussing ARC.
+* [John's AI Group Discord server](https://discord.gg/bzp87AHJy5) - Follow progress of Tan John Chong Min's ARC project.
 
 
 ## Wiki
