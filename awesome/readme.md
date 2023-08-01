@@ -29,7 +29,8 @@
 
 ## Prompt
 
-* [ARC prompt collection](https://github.com/neoneye/arc-prompt) - Experiments solving ARC tasks with GPT4 or similar language models.
+* [Tan John Chong Min's ARC prompts](https://github.com/tanchongmin/ARC-Challenge) - Solves 49 of 111 training set problems!
+* [Simon Strandgaard's ARC prompts](https://github.com/neoneye/arc-prompt) - Experiments solving ARC tasks with GPT4 or similar language models, solves 39 of 800 tasks.
 
 
 ## Videos
