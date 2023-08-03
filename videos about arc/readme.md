@@ -50,6 +50,18 @@
 - Duration: 11m00s, about ARC.
 - Duration: 2h01m, the entire interview.
 
+---
+
+- [Francois Chollet: What is the future of artificial intelligence?](https://youtu.be/GpWLZUbPhr0?t=2145) by Machine Learning Dojo with Tim Scarfe.
+- Duration: 20m00s, about ARC.
+- Duration: 1h18m, the entire interview.
+
+---
+
+- [Francois Chollet | Why abstraction is the key to intelligence, and what we’re still missing](https://youtu.be/3Nxe7J07TQY?t=1214) by Harvard CMSA.
+- Duration: 3m00s, about ARC.
+- Duration: 1h10m, the entire interview.
+
 
 # Paper - On the Measure of Intelligence
 
@@ -90,6 +102,16 @@
 
 - [On the Measure of Intelligence](https://youtu.be/9BQWKR08PQU) by Minji Kim.
 - Duration: 11m24s.
+
+---
+
+- [#97 SREEJAN KUMAR - Human Inductive Biases in Machines from Language](https://youtu.be/VvXfK-Qle-Y?t=852) by Machine Learning Street Talk.
+- Duration: 24m58s.
+
+---
+
+- [Are Neural Networks Intelligent?](https://youtu.be/okGnZ7bvwbQ?t=240) by CodeEmporium.
+- Duration: 8m59s.
 
 
 # Discussion
@@ -198,6 +220,22 @@
 
 - [ARC (Abstraction and Reasoning Corpus) mutations printed to console](https://youtu.be/dHl2L15iDlk) by Simon Strandgaard.
 - Duration: 6m44s.
+
+---
+
+- [Abstraction and Analogy in Artificial Intelligence - IPAM at UCLA](https://youtu.be/NLMW9twrlaQ?t=250) by Melanie Mitchell.
+- Duration: 1m00s, about ARC.
+- Duration: 19m55s, the entire video.
+
+---
+
+- [Communicating natural programs to humans and machines](https://www.youtube.com/watch?v=HuyRwul0HbU) by evanthebouncy.
+- Duration: 5m05s.
+
+---
+
+- [A Glimpse of the Happy ARC Day](https://youtu.be/zo1G4E720Co) by Sundong Kim.
+- Duration: 7m54s.
 
 ---
 
