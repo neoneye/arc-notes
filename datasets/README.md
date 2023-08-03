@@ -64,3 +64,11 @@ I have submitted a PR that fixes it.
 - Code: [data-preprocessing-correcting-tasks-with-errors](https://www.kaggle.com/code/ademiquel/data-preprocessing-correcting-tasks-with-errors/notebook)
 - Authors: Alejandro de Miquel
 - License: Unspecified
+
+
+# Communicating Natural Programs to Humans and Machines
+
+- Repo: [LARC - Language-complete Abstraction and Reasoning Corpus](https://github.com/samacqua/LARC)
+- Authors: Samuel Acquaviva, Yewen Pu, Marta Kryven, Theodoros Sechopoulos, Catherine Wong, Gabrielle E Ecanow, Maxwell Nye, Michael Henry Tessler, Joshua B. Tenenbaum.
+- License: MIT
+
