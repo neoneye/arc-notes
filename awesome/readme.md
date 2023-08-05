@@ -42,5 +42,14 @@
 
 ## Datasets
 
-* [Datasets for ARC](https://github.com/neoneye/arc-notes/tree/main/datasets) - Links to different datasets that use the ARC format.
+* [Datasets for ARC](https://github.com/neoneye/arc-notes/tree/main/datasets) - Links to datasets that use the ARC format.
+
+## Best implementations
+
+* [Mehran Kazeminia - ensemble](https://www.kaggle.com/code/mehrankazeminia/arc2023-end-to-end-v7) - Solves 31 out of 100 hidden tasks.
+* [Michael Hodel - ensemble](https://www.kaggle.com/code/michaelhodel/arc-ensemble/notebook) - Solves 31 out of 100 hidden tasks.
+* [Phil Dhingra - ensemble](https://www.kaggle.com/code/philipkd/arc-late-submission-1st-and-3rd-place-ensemble) - Solves 29 out of 100 hidden tasks.
+* [Kaggle 2021 - 1st place - icecuber](https://github.com/top-quarks/ARC-solution) - Solves 21 out of 100 hidden tasks.
+* [Kaggle 2021 - 2nd place - Alejandro & Roderic & Yuji](https://github.com/alejandrodemiquel/ARC_Kaggle) - Solves 19 out of 100 hidden tasks.
+* [Kaggle 2021 - 3rd place - Vlad & Ilia](https://www.kaggle.com/code/ilialar/3rd-place-end-to-end-solution/notebook) - Solves 19 out of 100 hidden tasks.
 
