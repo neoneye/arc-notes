@@ -52,4 +52,5 @@
 * [Kaggle 2021 - 1st place - icecuber](https://github.com/top-quarks/ARC-solution) - Solves 21 out of 100 hidden tasks.
 * [Kaggle 2021 - 2nd place - Alejandro & Roderic & Yuji](https://github.com/alejandrodemiquel/ARC_Kaggle) - Solves 19 out of 100 hidden tasks.
 * [Kaggle 2021 - 3rd place - Vlad & Ilia](https://www.kaggle.com/code/ilialar/3rd-place-end-to-end-solution/notebook) - Solves 19 out of 100 hidden tasks.
+* [Kaggle 2021 - 10th place - Puzzlemaster](https://github.com/artyompal/kaggle-abstract-reasoning) - Solves 14 out of 100 hidden tasks.
 
