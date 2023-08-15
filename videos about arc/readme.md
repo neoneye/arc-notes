@@ -162,6 +162,12 @@
 
 ---
 
+- [LLMs as General Pattern Machines: Use Arbitrary Tokens to Pattern Match?](https://youtu.be/qEoiLgdQC9k?t=1862) by John Tan Chong Min.
+- Duration: 1h45m, the entire video.
+- Duration: 10m00, about ARC.
+
+---
+
 - [ARC Challenge - Using NLP Models 1](https://youtu.be/EZRQJofyJF4) by Mindware Consulting, Inc.
 - Duration: 9m09s.
 
