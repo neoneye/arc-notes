@@ -43,6 +43,14 @@ I have submitted a PR that fixes it.
 - Authors: Zhengxuan Wu.
 - License: MIT
 
+## PQA: Perceptual Question Answering
+
+- Paper: [arXiv](https://arxiv.org/abs/2104.03589)
+- Paper: [Homepage](https://qugank.github.io/pqa.github.io/)
+- Repo: [qugank/pqa.github.io](https://github.com/qugank/pqa.github.io)
+- Authors: Yonggang Qi, Kai Zhang, Aneeshan Sain, Yi-Zhe Song
+- License: unspecified
+
 
 # Task generators
 
