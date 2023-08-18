@@ -29,7 +29,7 @@ I have submitted a PR that fixes it.
 
 - Repo: [1D-ARC](https://github.com/khalil-research/1D-ARC/tree/main/dataset)
 - Authors: Yudong (Will) Xu, Wenhao Li, Pashootan Vaezipoor, Scott Sanner, Elias B. Khalil
-- License: Unspecified
+- License: MIT
 
 ## Sequence\_ARC
 
