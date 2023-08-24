@@ -168,6 +168,12 @@
 
 ---
 
+- [LLM as Pattern Machines(Part 2) - Goal Directed Decision Transformers, 10-Year Plan for Intelligence](https://www.youtube.com/watch?v=rZ6hgFEe5nY) by John Tan Chong Min.
+- Duration: 1h42m, the entire video.
+- Duration: 30m00, about ARC.
+
+---
+
 - [ARC Challenge - Using NLP Models 1](https://youtu.be/EZRQJofyJF4) by Mindware Consulting, Inc.
 - Duration: 9m09s.
 
