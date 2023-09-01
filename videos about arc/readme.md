@@ -3,6 +3,11 @@
 
 # Intro to ARC
 
+- [why AI can't pass this test](https://www.youtube.com/watch?v=QrSCwxrLrRc) by Sabrina Cruz.
+- Duration: 18m34s.
+
+---
+
 - [Could AI solve this puzzle? (ARC-Game)](https://youtu.be/EB6H1yxeZyI) by Yannic Kilcher.
 - Duration: 18m41s.
 
