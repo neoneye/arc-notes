@@ -72,6 +72,12 @@ I have submitted a PR that fixes it.
 - Authors: Zhengxuan Wu.
 - License: MIT
 
+## ARC Generative DSL
+
+- Repo: [arc-generative-DSL-infinite-data](https://github.com/arc-community/arc-generative-DSL-infinite-data)
+- Authors: Jack Cole, James Enouen.
+- License: Unspecified
+
 
 # Corrections to the original ARC dataset
 
