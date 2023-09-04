@@ -51,6 +51,12 @@ I have submitted a PR that fixes it.
 - Authors: Yonggang Qi, Kai Zhang, Aneeshan Sain, Yi-Zhe Song
 - License: unspecified
 
+## synth_riddles
+
+- Repo: [synth_riddles](https://github.com/arc-community/synth_riddles)
+- Authors: Andreas Köpf
+- License: MIT
+
 
 # Task generators
 
