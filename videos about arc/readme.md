@@ -145,6 +145,11 @@
 
 ---
 
+- [AI BENCHMARKS ARE BROKEN!](https://www.youtube.com/watch?v=29gkDpR2orc) MLST interview with Melanie Mitchell.
+- Duration: 1h02m, several times ARC is discussed through the entire interview.
+
+---
+
 - [Learn Data Science by Doing Kaggle Competitions: Abstraction and Reasoning Challenge (ARC)](https://youtu.be/8siI9KyOwX0) by Matt Emery.
 - Duration: 1h38m.
 
