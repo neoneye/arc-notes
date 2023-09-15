@@ -78,6 +78,12 @@ I have submitted a PR that fixes it.
 - Authors: Jack Cole, James Enouen.
 - License: Unspecified
 
+## ARC-Generator
+
+- Repo: [ARC-Generator](https://github.com/Krzysiulek/ARC-Generator)
+- Authors: Krzysztof Czarnecki
+- License: Unspecified
+
 
 # Corrections to the original ARC dataset
 
