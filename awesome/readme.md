@@ -55,8 +55,8 @@
 * [Alejandro & Roderic & Yuji](https://github.com/alejandrodemiquel/ARC_Kaggle) - Solves 19 out of 100 hidden tasks. Kaggle 2021 - 2nd place.
 * [Vlad & Ilia](https://www.kaggle.com/code/ilialar/3rd-place-end-to-end-solution/notebook) - Solves 19 out of 100 hidden tasks. Kaggle 2021 - 3rd place.
 * [Puzzlemaster](https://github.com/artyompal/kaggle-abstract-reasoning) - Solves 14 out of 100 hidden tasks.
+* [Simon Strandgaard](https://github.com/loda-lang/loda-rust) - Solves 7 out of 100 hidden tasks.
 * [Michael Hodel](https://github.com/michaelhodel/arc-dsl) - Solves 6 out of 100 hidden tasks.
-* [Simon Strandgaard](https://github.com/loda-lang/loda-rust) - Solves 6 out of 100 hidden tasks.
 * [Anastasia Karpovich](https://www.kaggle.com/code/user189546/5-crop-tasks-by-brute-force) - Solves 5 out of 100 hidden tasks.
 * [Andy Penrose](https://www.kaggle.com/code/andypenrose/macro-dsl-for-arc-with-heuristic-search/notebook) - Solves 4 out of 100 hidden tasks.
 
