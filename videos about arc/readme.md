@@ -118,6 +118,11 @@
 - [Are Neural Networks Intelligent?](https://youtu.be/okGnZ7bvwbQ?t=240) by CodeEmporium.
 - Duration: 8m59s.
 
+---
+
+- [CW Paper-Club, On the Measure of Intelligence](https://www.youtube.com/watch?v=Dbt9fq6Cklc) by Guilherme Petrucci.
+- Duration: 34m33s.
+
 
 # Discussion
 
