@@ -1,6 +1,6 @@
 # Datasets for ARC (Abstraction and Reasoning Corpus)
 
-For simplicity, all the datasets are contained in a [single repo](https://github.com/neoneye/arc-dataset-collection).
+For simplicity, most the datasets are contained in a [single repo](https://github.com/neoneye/arc-dataset-collection).
 
 These datasets all follow the same json format as the original ARC dataset.
 
@@ -49,7 +49,7 @@ I have submitted a PR that fixes it.
 - Paper: [Homepage](https://qugank.github.io/pqa.github.io/)
 - Repo: [qugank/pqa.github.io](https://github.com/qugank/pqa.github.io)
 - Authors: Yonggang Qi, Kai Zhang, Aneeshan Sain, Yi-Zhe Song
-- License: unspecified
+- License: Unspecified
 
 ## synth_riddles
 
@@ -60,12 +60,11 @@ I have submitted a PR that fixes it.
 ## Optional ARC
 
 What's special about this dataset? `Counter-examples`.
-The original ARC dataset only have what the output should be.
-This dataset have 8 examples of what the output should not be.
+This dataset enhances the original ARC dataset, so every `test` pair have gotten 8 examples of what the output should NOT be.
 
 - Repo: [Optional ARC](https://github.com/SoseSose/Optional-ARC)
 - Authors: SoseSose
-- License: unspecified
+- License: Unspecified
 
 
 # Task generators
