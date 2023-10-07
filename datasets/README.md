@@ -8,13 +8,13 @@ These datasets all follow the same json format as the original ARC dataset.
 
 - Repo: [fchollet/ARC](https://github.com/fchollet/ARC/tree/master/data)
 - Authors: François Chollet
-- License: Apache-2.0 license
+- License: Apache-2.0
 
 ## Mini-ARC
 
 - Repo: [MINI-ARC](https://github.com/neoneye/MINI-ARC/tree/master/data/MiniARC)
 - Authors: Subin Kim, Prin Phunyaphibarn, Donghyun Ahn, Sundong Kim
-- License: Apache-2.0 license
+- License: Apache-2.0
 
 I cannot deserialize the original Mini-ARC repo, so the link is to a cleaned up version.
 I have submitted a PR that fixes it.
@@ -35,7 +35,7 @@ I have submitted a PR that fixes it.
 
 - Repo: [Sequence_ARC](https://github.com/seedling123/Sequence_ARC)
 - Authors: Seedling123
-- License: Apache-2.0 license
+- License: Apache-2.0
 
 ## ARC\_synthetic\_extend
 
@@ -57,12 +57,22 @@ I have submitted a PR that fixes it.
 - Authors: Andreas Köpf
 - License: MIT
 
+## Optional ARC
+
+What's special about this dataset? `Counter-examples`.
+The original ARC dataset only have what the output should be.
+This dataset have 8 examples of what the output should not be.
+
+- Repo: [Optional ARC](https://github.com/SoseSose/Optional-ARC)
+- Authors: SoseSose
+- License: unspecified
+
 
 # Task generators
 
 ## ARC gym
 
-- Repo [ARC gym](https://github.com/SimonOuellette35/ARC_gym)
+- Repo: [ARC gym](https://github.com/SimonOuellette35/ARC_gym)
 - Authors: Simon Ouellette
 - License: Unspecified
 
