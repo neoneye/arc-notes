@@ -1,6 +1,6 @@
 # Datasets for ARC (Abstraction and Reasoning Corpus)
 
-For simplicity, most the datasets are contained in a [single repo](https://github.com/neoneye/arc-dataset-collection).
+For simplicity, most of the datasets are contained in a [single repo](https://github.com/neoneye/arc-dataset-collection).
 
 These datasets all follow the same json format as the original ARC dataset.
 
