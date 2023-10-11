@@ -161,6 +161,11 @@
 
 # Using language models / transformers
 
+- [LLMs as a System of Multiple Expert Agents to solve the ARC Challenge - Detailed Walkthrough](https://www.youtube.com/watch?v=sTvonsD5His) by John Tan Chong Min.
+- Duration: 1h27m.
+
+---
+
 - [An approach to solve the Abstraction and Reasoning Corpus (ARC) Challenge with GPT4!](https://youtu.be/plVRxP8hQHY) by John Tan Chong Min.
 - Duration: 2h01m.
 
