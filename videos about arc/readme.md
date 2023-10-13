@@ -158,6 +158,11 @@
 - [Learn Data Science by Doing Kaggle Competitions: Abstraction and Reasoning Challenge (ARC)](https://youtu.be/8siI9KyOwX0) by Matt Emery.
 - Duration: 1h38m.
 
+---
+
+- [Fast and flexible: Human program induction in abstract reasoning tasks](https://underline.io/lecture/27444-fast-and-flexible-human-program-induction-in-abstract-reasoning-tasks) by Aysja Johnson, Wai Keen Vong, Brenden M. Lake and Todd M. Gureckis.
+- Duration: 2m56s.
+
 
 # Using language models / transformers
 

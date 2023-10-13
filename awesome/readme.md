@@ -35,6 +35,7 @@
 * [Tan John Chong Min's ARC prompts](https://github.com/tanchongmin/ARC-Challenge) - Solves 49 of 111 training set problems!
 * [Simon Strandgaard's ARC prompts](https://github.com/neoneye/arc-prompt) - Experiments solving ARC tasks with GPT4 or similar language models, solves 39 of 800 tasks.
 * [ARC_LLMs: Keeping track of LLM progress on ARC](https://github.com/alxndrTL/ARC_LLMs), [website source code](https://github.com/alxndrTL/alxndrTL.github.io/tree/master/ARC) and [visualization](https://alxndrtl.github.io/ARC/) - Visualize what ARC tasks gets solved (or not) by LLMs!.
+* [Fast and flexible: Human program induction in abstract reasoning tasks](https://arc-visualizations.github.io/) and [repo](https://github.com/arc-visualizations/arc-visualizations.github.io) - by Aysja Johnson, Wai Keen Vong, Brenden M. Lake and Todd M. Gureckis.
 
 
 ## Videos
