@@ -28,8 +28,10 @@
 * [Predicting the output size of an ARC task](https://github.com/neoneye/arc-output-size) - Using the command line tool for making better guesses about the output size.
 
 
-## Prompt
+## Prompt and language
 
+* [Dataset-Induced Meta-Learning (and other tricks): Improving model efficiency on ARC](https://lab42.global/community-post-model-efficiency/) - by 
+Jack Cole and Mohamed Osman.
 * [Large Language Models as General Pattern Machines](https://general-pattern-machines.github.io/) - Solves 85 of 800 tasks.
 * [GPT4 solving LARC tasks](https://github.com/evanthebouncy/larc_gpt4) - Solving ARC tasks using the LARC human descriptions with GPT4, solves 139 of 384 tasks.
 * [Tan John Chong Min's ARC prompts](https://github.com/tanchongmin/ARC-Challenge) - Solves 49 of 111 training set problems!
