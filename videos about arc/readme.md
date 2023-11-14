@@ -215,6 +215,11 @@
 
 # Various
 
+- [ARC Q&A with François Chollet](https://www.youtube.com/watch?v=dv3uHKmcL_E) by Lab42.
+- Duration: 44m37s.
+
+---
+
 - [ARC Challenge Live Coding](https://www.youtube.com/live/HGgrSz-jxdU) by Yannic Kilcher.
 - Duration: 1h29m.
 
