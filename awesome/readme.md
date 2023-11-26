@@ -35,7 +35,7 @@
 Jack Cole and Mohamed Osman.
 * [Large Language Models as General Pattern Machines](https://general-pattern-machines.github.io/) - Solves 85 of 800 tasks.
 * [GPT4 solving LARC tasks](https://github.com/evanthebouncy/larc_gpt4) - Solving ARC tasks using the LARC human descriptions with GPT4, solves 139 of 384 tasks.
-* [Tan John Chong Min's ARC prompts](https://github.com/tanchongmin/ARC-Challenge) - Solves 49 of 111 training set problems!
+* [Tan John Chong Min's ARC prompts](https://github.com/tanchongmin/ARC-Challenge) - Solves 50 of 111 training set problems!
 * [Simon Strandgaard's ARC prompts](https://github.com/neoneye/arc-prompt) - Experiments solving ARC tasks with GPT4 or similar language models, solves 39 of 800 tasks.
 * [ARC_LLMs: Keeping track of LLM progress on ARC](https://github.com/alxndrTL/ARC_LLMs), [website source code](https://github.com/alxndrTL/alxndrTL.github.io/tree/master/ARC) and [visualization](https://alxndrtl.github.io/ARC/) - Visualize what ARC tasks gets solved (or not) by LLMs!.
 * [Fast and flexible: Human program induction in abstract reasoning tasks](https://arc-visualizations.github.io/) and [repo](https://github.com/arc-visualizations/arc-visualizations.github.io) - by Aysja Johnson, Wai Keen Vong, Brenden M. Lake and Todd M. Gureckis.
@@ -60,7 +60,7 @@ Jack Cole and Mohamed Osman.
 * [Alejandro & Roderic & Yuji](https://github.com/alejandrodemiquel/ARC_Kaggle) - Solves 19 out of 100 hidden tasks. Kaggle 2021 - 2nd place.
 * [Vlad & Ilia](https://www.kaggle.com/code/ilialar/3rd-place-end-to-end-solution/notebook) - Solves 19 out of 100 hidden tasks. Kaggle 2021 - 3rd place.
 * [Puzzlemaster](https://github.com/artyompal/kaggle-abstract-reasoning) - Solves 14 out of 100 hidden tasks.
-* [Simon Strandgaard](https://github.com/loda-lang/loda-rust) - Solves 7 out of 100 hidden tasks.
+* [Simon Strandgaard](https://github.com/loda-lang/loda-rust) - Solves 8 out of 100 hidden tasks.
 * [Michael Hodel](https://github.com/michaelhodel/arc-dsl) - Solves 6 out of 100 hidden tasks.
 * [Anastasia Karpovich](https://www.kaggle.com/code/user189546/5-crop-tasks-by-brute-force) - Solves 5 out of 100 hidden tasks.
 * [Andy Penrose](https://www.kaggle.com/code/andypenrose/macro-dsl-for-arc-with-heuristic-search/notebook) - Solves 4 out of 100 hidden tasks.
