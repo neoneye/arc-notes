@@ -27,6 +27,7 @@
 * [mxbi/arckit](https://github.com/mxbi/arckit) - Python and command-line tools for easily working with the ARC dataset.
 * [Console for inspecting ARC tasks](https://github.com/neoneye/arc-console) - Printing ARC images to the console can get messed up. Instead I have made a web server for viewing ARC images. It uses a websocket between the browser and the webserver (but you don't have to worry about the websocket). You can view an image by sending a POST request, and the image gets appended at the bottom of the web page.
 * [Predicting the output size of an ARC task](https://github.com/neoneye/arc-output-size) - Using the command line tool for making better guesses about the output size.
+* [simon-arc-env](https://github.com/neoneye/simon-arc-env) - bstraction and Reasoning Corpus as a Farama Gymnasium environment.
 
 
 ## Prompt and language
