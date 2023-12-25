@@ -57,6 +57,12 @@ I have submitted a PR that fixes it.
 - Authors: Andreas Köpf
 - License: MIT
 
+## ARC dataset diva
+
+- Repo: [arc-dataset-diva](https://github.com/neoneye/arc-dataset-diva)
+- Authors: Simon Strandgaard.
+- License: MIT
+
 ## Optional ARC
 
 What's special about this dataset? `Counter-examples`.

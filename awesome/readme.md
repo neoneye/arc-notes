@@ -65,4 +65,5 @@ Jack Cole and Mohamed Osman.
 * [Michael Hodel](https://github.com/michaelhodel/arc-dsl) - Solves 6 out of 100 hidden tasks.
 * [Anastasia Karpovich](https://www.kaggle.com/code/user189546/5-crop-tasks-by-brute-force) - Solves 5 out of 100 hidden tasks.
 * [Andy Penrose](https://www.kaggle.com/code/andypenrose/macro-dsl-for-arc-with-heuristic-search/notebook) - Solves 4 out of 100 hidden tasks.
-
+* [Sébastien Ferré](https://github.com/sebferre/ARC-MDL) - Solves 3 out of 100 hidden tasks.
+* [Robert Lizée](https://github.com/robertlizee/arc-solver) - Solves 1 out of 100 hidden tasks.
