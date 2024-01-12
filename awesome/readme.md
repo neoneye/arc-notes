@@ -65,7 +65,7 @@ Jack Cole and Mohamed Osman.
 * [taka or team `armo` - ensemble](https://github.com/tien2020le2020/arc_baseline/tree/arc_tree7) - Solves 29 out of 100 hidden tasks. The code is not on the `main` branch.
 * [icecuber](https://github.com/top-quarks/ARC-solution) - Solves 21 out of 100 hidden tasks. Kaggle 2021 - 1st place.
 * [Alejandro & Roderic & Yuji](https://github.com/alejandrodemiquel/ARC_Kaggle) - Solves 19 out of 100 hidden tasks. Kaggle 2021 - 2nd place.
-* [Vlad & Ilia](https://www.kaggle.com/code/ilialar/3rd-place-end-to-end-solution/notebook) - Solves 19 out of 100 hidden tasks. Kaggle 2021 - 3rd place.
+* [Vlad & Ilia](https://www.kaggle.com/code/ilialar/3rd-place-end-to-end-solution/notebook), [repo](https://github.com/IliaLarchenko/abstract_reasoning) - Solves 19 out of 100 hidden tasks. Kaggle 2021 - 3rd place.
 * [Puzzlemaster](https://github.com/artyompal/kaggle-abstract-reasoning) - Solves 14 out of 100 hidden tasks.
 * [Maciej Sypetkowski + Michał Sypetkowski](https://github.com/maciej-sypetkowski/kaggle-arc-solution) - Solves 8 out of 100 hidden tasks.
 * [Simon Strandgaard](https://github.com/loda-lang/loda-rust) - Solves 8 out of 100 hidden tasks.
