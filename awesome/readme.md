@@ -33,7 +33,7 @@
 ## How does humans solve ARC
 
 * [ARC-eyetracking](https://github.com/lbakst/ARC-eyetracking) - uses PsychoPy for eye tracking.
-* [ARC-behavioral](https://github.com/ahn-cj/ARC-behavioral) - has an interesting video explaining how [https://github.com/ahn-cj/ARC-behavioral/blob/main/demo/training/mturk_tutorial.mov](the eye tracking works with ARC).
+* [ARC-behavioral](https://github.com/ahn-cj/ARC-behavioral) - has an interesting video explaining how [the eye tracking works with ARC](https://github.com/ahn-cj/ARC-behavioral/blob/main/demo/training/mturk_tutorial.mov).
 * [human-arc](https://github.com/MichaelPascale/human-arc) - eye tracking.
 
 ## Prompt and language
