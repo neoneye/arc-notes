@@ -255,6 +255,11 @@
 
 ---
 
+- [Solving 4 tasks of Abstraction and Reasoning Corpus (ARC)](https://www.youtube.com/watch?v=PRdFLRpC6dk) by Simon Strandgaard.
+- Duration: 2m18s.
+
+---
+
 - [Tracking of objects between input and output - ARC (Abstraction and Reasoning Corpus)](https://www.youtube.com/watch?v=GDQoVlyfAZQ) by Simon Strandgaard.
 - Duration: 0m44s.
 
