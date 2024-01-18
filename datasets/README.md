@@ -63,6 +63,12 @@ I have submitted a PR that fixes it.
 - Authors: Simon Strandgaard.
 - License: MIT
 
+## ARC Community
+
+- Repo: [arc-community/arc](https://github.com/arc-community/arc)
+- Authors: Yannic Kilcher, Peter Nemeth, Jack Cole.
+- License: Unspecified
+
 ## Optional ARC
 
 What's special about this dataset? `Counter-examples`.
