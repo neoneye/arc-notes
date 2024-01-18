@@ -32,6 +32,7 @@
 * [simon-arc-env](https://github.com/neoneye/simon-arc-env) - Abstraction and Reasoning Corpus as a Farama Gymnasium environment.
 * [arc-site](https://github.com/victorvikram/arc-site) - Edit train and test pairs. It runs in the browser, without backend.
 * [arc-app](https://github.com/victorvikram/arc-app) - Seems to be react, with frontend and server.
+* [arc-level-editor](https://github.com/arc-community/arc-level-editor) - Edit train and test pairs. Requires a nodejs installation.
 
 ## How does humans solve ARC
 
