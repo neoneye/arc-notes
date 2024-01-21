@@ -26,6 +26,7 @@
 
 * [ARC-Game](https://volotat.github.io/ARC-Game/), [repo](https://github.com/volotat/ARC-Game) - The ARC 1 dataset made into a fun game that runs in the browser.
 * [mxbi/arckit](https://github.com/mxbi/arckit) - Python and command-line tools for easily working with the ARC dataset.
+* [arc-dsl](https://github.com/michaelhodel/arc-dsl) - Solutions to all 400 training tasks of the ARC dataset.
 * [Console for inspecting ARC tasks](https://github.com/neoneye/arc-console) - Printing ARC images to the console can get messed up. Instead I have made a web server for viewing ARC images. It uses a websocket between the browser and the webserver (but you don't have to worry about the websocket). You can view an image by sending a POST request, and the image gets appended at the bottom of the web page.
 * [Predicting the output size of an ARC task](https://github.com/neoneye/arc-output-size) - Using the command line tool for making better guesses about the output size.
 * [ARCLE - ARC Learning Environment](https://github.com/ConfeitoHS/arcle) - Abstraction and Reasoning Corpus as a Farama Gymnasium environment.
