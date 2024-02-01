@@ -28,7 +28,7 @@
 * [The original ARC testing interface](https://github.com/fchollet/ARC/tree/master/apps) - Edit train and test pairs. No backend required.
 * [ARC-Interactive](https://neoneye.github.io/arc/), [repo](https://github.com/neoneye/ARC-Interactive) - Browse ARC datasets and solve puzzles in the browser.
 * [ARC-Game](https://volotat.github.io/ARC-Game/), [repo](https://github.com/volotat/ARC-Game) - The ARC 1 dataset made into a fun game that runs in the browser.
-* [O2ARC](https://github.com/KSB21ST/MINI-ARC/) - Editor with ability to record user interaction while solving an ARC task.
+* [O2ARC](https://hsh6449.pythonanywhere.com/), [repo](https://github.com/KSB21ST/MINI-ARC/) - Editor with ability to record user interaction while solving an ARC task.
 * [arc-site](https://github.com/victorvikram/arc-site) - Edit train and test pairs. It runs in the browser, without backend.
 * [arc-app](https://github.com/victorvikram/arc-app) - Seems to be react, with frontend and server.
 * [arc-level-editor](https://github.com/arc-community/arc-level-editor) - Edit train and test pairs. Requires a nodejs installation.
