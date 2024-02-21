@@ -293,3 +293,8 @@
 
 - [Problem Solving Interface of O2ARC_V2](https://youtu.be/0TtQ8dCr3tQ) by Doyoon Song, Ohhyeon Kwon, Min taek Lim, Janghyeok Han. [Explanation](https://doyoonsong.vercel.app/ARC_project).
 - Duration: 0m49s.
+
+---
+
+- [ARC eye tracking introduction](https://www.youtube.com/watch?v=nsSuHWKz8d8) by Leah Bakst. [ARC-eyetracking](https://github.com/lbakst/ARC-eyetracking).
+- Duration: 3m10s.
