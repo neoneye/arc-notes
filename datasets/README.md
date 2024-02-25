@@ -12,12 +12,9 @@ These datasets all follow the same json format as the original ARC dataset.
 
 ## Mini-ARC
 
-- Repo: [MINI-ARC](https://github.com/neoneye/MINI-ARC/tree/master/data/MiniARC)
+- Repo: [MINI-ARC](https://github.com/KSB21ST/MINI-ARC)
 - Authors: Subin Kim, Prin Phunyaphibarn, Donghyun Ahn, Sundong Kim
 - License: Apache-2.0
-
-I cannot deserialize the original Mini-ARC repo, so the link is to a cleaned up version.
-I have submitted a PR that fixes it.
 
 ## ConceptARC
 
