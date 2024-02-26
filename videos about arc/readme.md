@@ -298,3 +298,9 @@
 
 - [ARC eye tracking introduction](https://www.youtube.com/watch?v=nsSuHWKz8d8) by Leah Bakst. [ARC-eyetracking](https://github.com/lbakst/ARC-eyetracking).
 - Duration: 3m10s.
+
+---
+
+- [The IQ of AI: Measuring Intelligence in AI Models](https://youtu.be/QfhLl3MfPFk?si=3giUQHOC19kJj9OJ&t=1182) by Jodie Burchell.
+- Duration: 1m30s, about ARC.
+- Duration: 27m24s, the entire video.
