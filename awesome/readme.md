@@ -5,7 +5,8 @@
 ## News and status
 
 * [ARCathon news and publications](https://lab42.global/arcathon/updates/) - The newest publications are interesting to read.
-* [ARC: Where do we stand today?](https://lab42.global/arc-article/) - What is status of ARC in 2023.
+* [Dataset-Induced Meta-Learning and other tricks: Improving model efficiency on ARC](https://lab42.global/community-post-model-efficiency/) - What is status of ARC in late 2023.
+* [ARC: Where do we stand today?](https://lab42.global/arc-article/) - What is status of ARC in mid 2023.
 * [ARCathon leaderboard](https://lab42.global/arcathon/leaderboard/) - How many tasks of the 100 tasks have been solved so far. The best team is solving around 30 tasks.
 * [Kaggle ARC leaderboard](https://www.kaggle.com/competitions/abstraction-and-reasoning-challenge/leaderboard) - This may be of historical interest, in the first ARC comptetition the best team solved around 21 tasks out of 100 hidden tasks.
 
