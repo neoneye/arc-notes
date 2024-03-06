@@ -276,6 +276,12 @@
 
 ---
 
+- [ The Future of Artificial Intelligence](https://youtu.be/HAiXT1mGTXc?si=TWiZ2coyUqTy0Hbb&t=2283) by Melanie Mitchell.
+- Duration: 1m00s, about ARC.
+- Duration: 47m40s, the entire video.
+
+---
+
 - [Communicating natural programs to humans and machines](https://www.youtube.com/watch?v=HuyRwul0HbU) by evanthebouncy.
 - Duration: 5m05s.
 
