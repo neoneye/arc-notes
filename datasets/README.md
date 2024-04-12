@@ -78,6 +78,12 @@ This dataset enhances the original ARC dataset, so every `test` pair have gotten
 
 # Task generators
 
+## RE-ARC: Reverse-Engineering the Abstraction and Reasoning Corpus
+
+- Repo: [RE-ARC](https://github.com/michaelhodel/re-arc/)
+- Authors: Michael Hodel
+- License: MIT
+
 ## ARC gym
 
 - Repo: [ARC gym](https://github.com/SimonOuellette35/ARC_gym)
