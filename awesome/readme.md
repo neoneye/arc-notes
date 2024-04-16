@@ -4,11 +4,13 @@
 
 ## News and status
 
+* [ARCathon Global AI Contest](https://lab42.global/arcathon/) - Join the competition here.
 * [ARCathon news and publications](https://lab42.global/arcathon/updates/) - The newest publications are interesting to read.
 * [Dataset-Induced Meta-Learning and other tricks: Improving model efficiency on ARC](https://lab42.global/community-post-model-efficiency/) - What is status of ARC in late 2023.
-* [ARC: Where do we stand today?](https://lab42.global/arc-article/) - What is status of ARC in mid 2023.
-* [ARCathon leaderboard](https://lab42.global/arcathon/leaderboard/) - How many tasks of the 100 tasks have been solved so far. The best team is solving around 30 tasks.
+* [ARCathon leaderboard](https://lab42.global/arcathon/leaderboard/) - How many tasks of the 100 tasks have been solved so far. The best team is solving 34 tasks.
 * [Kaggle ARC leaderboard](https://www.kaggle.com/competitions/abstraction-and-reasoning-challenge/leaderboard) - This may be of historical interest, in the first ARC comptetition the best team solved around 21 tasks out of 100 hidden tasks.
+* [ARC: Interview with Jack Cole](https://lab42.global/arc-interview/) - Status of ARC early 2024. Interview with the ARC World Record Holder, Jack Cole, solving 34 of the 100 hidden tasks.
+* [ARC: Where do we stand today?](https://lab42.global/arc-article/) - Status of ARC mid 2023.
 
 
 ## Discord
@@ -27,7 +29,7 @@
 
 * [ARCreate](https://arc-editor.lab42.global/) - Contribute with new tasks to the ARC 2 dataset.
 * [The original ARC testing interface](https://github.com/fchollet/ARC/tree/master/apps) - Edit train and test pairs. No backend required.
-* [ARC-Interactive](https://neoneye.github.io/arc/), [repo](https://github.com/neoneye/ARC-Interactive) - Browse ARC datasets and solve puzzles in the browser.
+* [BrainGridGame](https://braingridgame.com/), [repo](https://github.com/neoneye/ARC-Interactive), [dataset](https://github.com/neoneye/ARC-Interactive-History-Dataset) - What kind of interactions does humans do when solving an ARC task. This project captures the interaction history and continuesly updates the dataset with interaction histories.
 * [ARC-Game](https://volotat.github.io/ARC-Game/), [repo](https://github.com/volotat/ARC-Game) - The ARC 1 dataset made into a fun game that runs in the browser.
 * [O2ARC](https://hsh6449.pythonanywhere.com/), [repo](https://github.com/KSB21ST/MINI-ARC/) - Editor with ability to record user interaction while solving an ARC task.
 * [arc-site](https://github.com/victorvikram/arc-site) - Edit train and test pairs. It runs in the browser, without backend.
