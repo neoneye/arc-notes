@@ -215,6 +215,11 @@
 
 # Various
 
+- [How do humans solve ARC tasks, Abstraction & Reasoning Corpus](https://www.youtube.com/watch?v=vQt7UZsYooQ) by Simon Strandgaard.
+- Duration: 1m57s.
+
+---
+
 - [ARC Q&A with François Chollet](https://www.youtube.com/watch?v=dv3uHKmcL_E) by Lab42.
 - Duration: 44m37s.
 
