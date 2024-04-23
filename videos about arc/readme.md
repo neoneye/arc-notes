@@ -67,6 +67,12 @@
 - Duration: 3m00s, about ARC.
 - Duration: 1h10m, the entire interview.
 
+---
+
+- [François Chollet - Creating Keras 3](https://youtu.be/oe6fuxhGVRE?si=dohT96oJzu_tZ7Ba&t=3197).
+- Duration: 12m, about ARC.
+- Duration: 1h05m, the entire interview.
+
 
 # Paper - On the Measure of Intelligence
 
