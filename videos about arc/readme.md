@@ -150,6 +150,12 @@
 
 ---
 
+- [The Debate Over “Understanding” in AI’s Large Language Models](https://youtu.be/O5SLGAWSXMw?si=FvAdO0Mc6ahvCzmm&t=1998) by Melanie Mitchell.
+- Duration: 44m41s, the entire talk.
+- Duration: 11m00s, about ARC.
+
+---
+
 - [Prospects for AI Systems That Can Form Concepts and Abstractions](https://youtu.be/-jNmJZ1j35c?t=2305) by Melanie Mitchell.
 - Duration: 41m58s, the entire talk.
 - Duration: 4m00s, about ARC.
