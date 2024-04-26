@@ -30,7 +30,7 @@
 * [ARCreate](https://arc-editor.lab42.global/) - Contribute with new tasks to the ARC 2 dataset.
 * [The original ARC testing interface](https://github.com/fchollet/ARC/tree/master/apps) - Edit train and test pairs. No backend required.
 * [BrainGridGame](https://braingridgame.com/), [repo](https://github.com/neoneye/ARC-Interactive), [dataset](https://github.com/neoneye/ARC-Interactive-History-Dataset) - What kind of interactions does humans do when solving an ARC task. This project captures the interaction history and continuesly updates the dataset with interaction histories.
-* [O2ARC](https://o2arc.com/), [repo](https://github.com/KSB21ST/MINI-ARC/) - Editor with ability to record user interaction while solving an ARC task.
+* [O2ARC](https://o2arc.com/), [repo](https://github.com/SongDerrick/O2ARC_V2), [repo](https://github.com/KSB21ST/MINI-ARC/) - Editor with ability to record user interaction while solving an ARC task.
 * [ARC-Game](https://volotat.github.io/ARC-Game/), [repo](https://github.com/volotat/ARC-Game) - The ARC 1 dataset made into a fun game that runs in the browser.
 * [arc-site](https://github.com/victorvikram/arc-site) - Edit train and test pairs. It runs in the browser, without backend.
 * [arc-app](https://github.com/victorvikram/arc-app) - Seems to be react, with frontend and server.
