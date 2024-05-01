@@ -232,6 +232,11 @@
 
 ---
 
+- [Brain Grid Game - Abstraction & Reasoning Corpus (ARC)](https://www.youtube.com/watch?v=6HeNFWNSFHk) by Simon Strandgaard.
+- Duration: 1m58s.
+
+---
+
 - [ARC Q&A with François Chollet](https://www.youtube.com/watch?v=dv3uHKmcL_E) by Lab42.
 - Duration: 44m37s.
 
