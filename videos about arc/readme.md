@@ -3,6 +3,11 @@
 
 # Intro to ARC
 
+- [New Rules Every Time: Can You Solve These Puzzles?](https://www.youtube.com/watch?v=IkbZMDbMK3Y) by Simon Strandgaard.
+- Duration: 0m36s.
+
+---
+
 - [why AI can't pass this test](https://www.youtube.com/watch?v=QrSCwxrLrRc) by Sabrina Cruz.
 - Duration: 18m34s.
 
