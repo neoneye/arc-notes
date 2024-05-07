@@ -3,8 +3,8 @@
 
 # Intro to ARC
 
-- [New Rules Every Time: Can You Solve These Puzzles?](https://www.youtube.com/watch?v=IkbZMDbMK3Y) by Simon Strandgaard.
-- Duration: 0m36s.
+- [New Rules Every Time: Can You Solve These Puzzles?](https://www.youtube.com/watch?v=YCScsACWh3w) by Simon Strandgaard.
+- Duration: 0m37s.
 
 ---
 
