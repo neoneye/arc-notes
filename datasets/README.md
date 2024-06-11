@@ -4,9 +4,9 @@ For simplicity, most of the datasets are contained in a [single repo](https://gi
 
 These datasets all follow the same json format as the original ARC dataset.
 
-## The original ARC dataset
+## ARC-AGI - The original ARC dataset
 
-- Repo: [fchollet/ARC](https://github.com/fchollet/ARC/tree/master/data)
+- Repo: [fchollet/ARC-AGI](https://github.com/fchollet/ARC-AGI/tree/master/data)
 - Authors: François Chollet
 - License: Apache-2.0
 
