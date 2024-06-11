@@ -4,17 +4,24 @@
 
 ## News and status
 
-* [ARCathon Global AI Contest](https://lab42.global/arcathon/) - Join the competition here.
+* [ARC Prize](https://arcprize.org/) - ARC Prize is a $1,000,000+ public competition to beat and open source a solution to the ARC-AGI benchmark.
+* [Kaggle - ARC Prize 2024](https://www.kaggle.com/competitions/arc-prize-2024) - Submit solutions here.
+* [lab42.global/arcathon](https://lab42.global/arcathon/) - This was where ARCathon 2022 and ARCathon 2023 was hosted. ARCathon is now ARC Prize.
 * [ARCathon news and publications](https://lab42.global/arcathon/updates/) - The newest publications are interesting to read.
 * [Dataset-Induced Meta-Learning and other tricks: Improving model efficiency on ARC](https://lab42.global/community-post-model-efficiency/) - What is status of ARC in late 2023.
-* [ARCathon leaderboard](https://lab42.global/arcathon/leaderboard/) - How many tasks of the 100 tasks have been solved so far. The best team is solving 34 tasks.
-* [Kaggle ARC leaderboard](https://www.kaggle.com/competitions/abstraction-and-reasoning-challenge/leaderboard) - This may be of historical interest, in the first ARC comptetition the best team solved around 21 tasks out of 100 hidden tasks.
 * [ARC: Interview with Jack Cole](https://lab42.global/arc-interview/) - Status of ARC early 2024. Interview with the ARC World Record Holder, Jack Cole, solving 34 of the 100 hidden tasks.
 * [ARC: Where do we stand today?](https://lab42.global/arc-article/) - Status of ARC mid 2023.
 
+## Leaderboard
+
+* [2024 - Leaderboard - ARC Prize](https://arcprize.org/leaderboard) - Pretty formatted leaderboard.
+* [2024 - Leaderboard - Kaggle](https://www.kaggle.com/competitions/arc-prize-2024/leaderboard) - The usual kaggle style. 
+* [2022,2023,2024 - Leaderboard](https://lab42.global/arcathon/leaderboard/) - This may be of historical interest. The best team solved 34 tasks out of 100 hidden tasks. 
+* [2020 - Leaderboard](https://www.kaggle.com/competitions/abstraction-and-reasoning-challenge/leaderboard) - This may be of historical interest. The best team solved 21 tasks out of 100 hidden tasks.
 
 ## Discord
 
+* [ARC Prize](https://discord.gg/9b77dPAmcA) - The entire Discord server is about ARC.
 * [Lab42 Discord server](https://discord.gg/waRCYPEc6C) - Several channels for discussing ARC.
 * [Yannic Kilcher's Discord server](https://ykilcher.com/discord) - Every Sunday 1700 UTC there is a voice meeting for only discussing ARC.
 * [John's AI Group Discord server](https://discord.gg/bzp87AHJy5) - Follow progress of Tan John Chong Min's ARC project.
