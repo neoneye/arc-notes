@@ -3,6 +3,21 @@
 
 # Intro to ARC
 
+- [ARC Benchmark Origins](https://www.youtube.com/watch?v=2W5D6J8om0c) by François Chollet.
+- Duration: 3m04s.
+
+---
+
+- [Francois Chollet - LLMs won’t lead to AGI - $1,000,000 Prize to find true solution](https://www.youtube.com/watch?v=UakqL6Pj9xo) by Dwarkesh Patel.
+- Duration: 1h35m.
+
+---
+
+- [No Priors Ep. 68 | With Zapier Co-Founder and Head of AI Mike Knoop](https://www.youtube.com/watch?v=LFm_lSiMLm4) by No Priors team.
+- Duration: 26m00s.
+
+---
+
 - [New Rules Every Time: Can You Solve These Puzzles?](https://www.youtube.com/watch?v=YCScsACWh3w) by Simon Strandgaard.
 - Duration: 0m37s.
 
