@@ -10,6 +10,16 @@
 
 ---
 
+- [Implications of solving the ARC benchmark](https://www.youtube.com/watch?v=ZyA_6sX4ATY) by François Chollet.
+- Duration: 1m28s.
+
+---
+
+- [Francois Chollet recommends this method to solve ARC-AGI](https://www.youtube.com/watch?v=VqMcfdzqedE) by François Chollet.
+- Duration: 2m34s.
+
+---
+
 - [ARC Benchmark Origins](https://www.youtube.com/watch?v=2W5D6J8om0c) by François Chollet.
 - Duration: 3m04s.
 
@@ -27,6 +37,11 @@
 
 - [New Rules Every Time: Can You Solve These Puzzles?](https://www.youtube.com/watch?v=YCScsACWh3w) by Simon Strandgaard.
 - Duration: 0m37s.
+
+---
+
+- [Announcing ARC Prize](https://www.youtube.com/watch?v=2avWAHXUXXs) by ARC Prize team.
+- Duration: 0m35s.
 
 ---
 
