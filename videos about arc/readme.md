@@ -3,6 +3,13 @@
 
 # Intro to ARC
 
+
+
+- [Explore ARC-AGI Data + Play](https://www.youtube.com/watch?v=LLxiPrIxdqs) by ARC Prize team.
+- Duration: 11m02s.
+
+---
+
 - [ARC Benchmark Origins](https://www.youtube.com/watch?v=2W5D6J8om0c) by François Chollet.
 - Duration: 3m04s.
 
