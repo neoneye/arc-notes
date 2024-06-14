@@ -274,6 +274,11 @@
 
 ---
 
+- [Spoiler Alert! - ARC-AGI puzzle solving by real humans](https://www.youtube.com/watch?v=NivPmxUfeHY) by Simon Strandgaard.
+- Duration: 3m24s.
+
+---
+
 - [Brain Grid Game - Abstraction & Reasoning Corpus (ARC)](https://www.youtube.com/watch?v=6HeNFWNSFHk) by Simon Strandgaard.
 - Duration: 1m58s.
 
