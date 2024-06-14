@@ -186,6 +186,12 @@
 
 ---
 
+- [LLM Understanding: 16. Melanie MITCHELL "AI’s Challenge of Understanding the World"](https://youtu.be/tAJXedG5unw?si=yeL5RXFwtH2kEAcR&t=1954) by Melanie Mitchell.
+- Duration: 1h27m, the entire talk.
+- Duration: 7m00s, about ARC.
+
+---
+
 - [Abstraction and Analogy are the Keys to Robust AI](https://youtu.be/cYSRgDpTKyA?t=2027) by Melanie Mitchell.
 - Duration: 47m38s, the entire talk.
 - Duration: 5m00s, about ARC.
