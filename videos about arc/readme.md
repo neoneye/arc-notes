@@ -35,6 +35,10 @@
 
 ---
 
+- [AI Won't Be AGI, Until It Can At Least Do This (plus 6 key ways LLMs are being upgraded)](https://www.youtube.com/watch?v=PeSNEXKxarU) by AI Explained.
+- Duration: 32m33s.
+
+---
 - [New Rules Every Time: Can You Solve These Puzzles?](https://www.youtube.com/watch?v=YCScsACWh3w) by Simon Strandgaard.
 - Duration: 0m37s.
 
