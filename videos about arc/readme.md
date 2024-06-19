@@ -85,6 +85,12 @@
 
 # Interview with the best
 
+- [Jack Cole, Mohammed Osman and Michael Hodel](https://www.youtube.com/watch?v=jSAT_RuJ_Cg) interview by MLST.
+- Duration: 2h15m.
+- Interview about how the solution works and lessons.
+
+---
+
 - [Alejandro de Miquel - 2nd in ARC Kaggle Challenge - EP 03](https://youtu.be/W2pBAMoSx6E).
 - Duration: 2h01m.
 - Interview about how the solution works and lessons.
