@@ -10,6 +10,11 @@
 
 ---
 
+- [Claude 3.5 struggle too?! The $Million dollar challenge](https://www.youtube.com/watch?v=kZap-tDA1i4) by AI Jason.
+- Duration: 23m30s.
+
+---
+
 - [Implications of solving the ARC benchmark](https://www.youtube.com/watch?v=ZyA_6sX4ATY) by François Chollet.
 - Duration: 1m28s.
 
