@@ -15,6 +15,11 @@
 
 ---
 
+- [Testing Frontier LLMs (GPT4) on ARC-AGI](https://www.youtube.com/watch?v=crhrzhVjWog) by ARC Prize team.
+- Duration: 18m30s.
+
+---
+
 - [Implications of solving the ARC benchmark](https://www.youtube.com/watch?v=ZyA_6sX4ATY) by François Chollet.
 - Duration: 1m28s.
 
