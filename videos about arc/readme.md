@@ -84,6 +84,11 @@
 
 ---
 
+- [Mindscape 280 | François Chollet on Deep Learning and the Meaning of Intelligence](https://www.youtube.com/watch?v=rTh3UcPj_7o) by Sean Carroll.
+- Duration: 1h41m.
+
+---
+
 - [What is ARC (Abstraction and Reasoning Corpus)](https://youtu.be/rLGpNcQ5alI) by Simon Strandgaard.
 - Duration: 4m53s.
 
