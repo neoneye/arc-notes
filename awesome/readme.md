@@ -86,10 +86,19 @@ Jack Cole and Mohamed Osman.
 
 ## Best implementations
 
+The 2024 rules allows for 2 predictions.
+
+* [🧮ARC24🧠Developed 2020 Winning Solutions by Mehran Kazeminia, Somayyeh Gholami](https://www.kaggle.com/code/mehrankazeminia/3-arc24-developed-2020-winning-solutions) - Solves 26 out of 100 hidden tasks.
+
+
+##### Earlier than 2024 ARC Prize
+
+Implementations that are older than 2024. The rules allowed for 3 predictions.
+
 * [Mehran Kazeminia - ensemble](https://www.kaggle.com/code/mehrankazeminia/arc2023-end-to-end-v7) - Solves 31 out of 100 hidden tasks.
 * [Michael Hodel - ensemble](https://www.kaggle.com/code/michaelhodel/arc-ensemble/notebook) - Solves 31 out of 100 hidden tasks.
 * [Phil Dhingra - ensemble](https://www.kaggle.com/code/philipkd/arc-late-submission-1st-and-3rd-place-ensemble) - Solves 29 out of 100 hidden tasks.
-* [taka or team `armo` - ensemble](https://github.com/tien2020le2020/arc_baseline/tree/arc_tree7) - Solves 29 out of 100 hidden tasks. The code is not on the `main` branch.
+* [DEAD LINK - taka or team `armo` - ensemble](https://github.com/tien2020le2020/arc_baseline/tree/arc_tree7) - Solves 29 out of 100 hidden tasks. The code is not on the `main` branch.
 * [icecuber](https://github.com/top-quarks/ARC-solution) - Solves 21 out of 100 hidden tasks. Kaggle 2021 - 1st place.
 * [Alejandro & Roderic & Yuji](https://github.com/alejandrodemiquel/ARC_Kaggle) - Solves 19 out of 100 hidden tasks. Kaggle 2021 - 2nd place.
 * [Vlad & Ilia](https://www.kaggle.com/code/ilialar/3rd-place-end-to-end-solution/notebook), [repo](https://github.com/IliaLarchenko/abstract_reasoning) - Solves 19 out of 100 hidden tasks. Kaggle 2021 - 3rd place.
