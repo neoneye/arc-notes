@@ -20,6 +20,11 @@
 
 ---
 
+- [Zapier’s Mike Knoop launches ARC Prize to Jumpstart New Ideas for AGI | Training Data](https://www.youtube.com/watch?v=lXDrpHwcY0Y) by Sequoia Capital.
+- Duration: 55m12s.
+
+---
+
 - [Implications of solving the ARC benchmark](https://www.youtube.com/watch?v=ZyA_6sX4ATY) by François Chollet.
 - Duration: 1m28s.
 
