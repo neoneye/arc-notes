@@ -415,3 +415,9 @@
 - [The IQ of AI: Measuring Intelligence in AI Models](https://youtu.be/QfhLl3MfPFk?si=3giUQHOC19kJj9OJ&t=1182) by Jodie Burchell.
 - Duration: 1m30s, about ARC.
 - Duration: 27m24s, the entire video.
+
+# Roasting ARC
+
+- [I was not impressed by the ARC-AGI challenge (not actually a test for AGI)](https://www.youtube.com/watch?v=ZogIWnIMK-E) by David Shapiro.
+- Duration: 11m12s.
+
