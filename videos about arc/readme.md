@@ -111,6 +111,12 @@
 
 ---
 
+- [Ryan Greenblatt - Solving Chollet's ARC-AGI with GPT4o](https://www.youtube.com/watch?v=z9j3wB1RRGA) interview by MLST.
+- Duration: 2h18m.
+- Interview about how the solution works and lessons.
+
+---
+
 - [Alejandro de Miquel - 2nd in ARC Kaggle Challenge - EP 03](https://youtu.be/W2pBAMoSx6E).
 - Duration: 2h01m.
 - Interview about how the solution works and lessons.
