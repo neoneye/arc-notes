@@ -210,6 +210,12 @@
 
 # Discussion
 
+- [ARC Challenge Solver - 2024 AGI Hackathon San Francisco](https://www.youtube.com/watch?v=DiwmXHPbles) by Startup Pitches.
+- Duration: 8m01s.
+- Discussing Ryan Greenblatt’s code.
+
+---
+
 - [ARC Challenge - IBS/KAIST Data Science Seminar Series](https://youtu.be/k6xhRIiJkNw) by Sundong Kim.
 - Duration: 50m13s.
 - Discussion about how to solve ARC.
