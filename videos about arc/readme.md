@@ -111,6 +111,12 @@
 
 ---
 
+- [Michael Hodel: Reverse Engineering the Abstraction and Reasoning Corpus](https://www.youtube.com/watch?v=J3_KjLikOU0) interview by John Tan Chong Min.
+- Duration: 1h28m.
+- Interview about [re-arc](https://github.com/michaelhodel/re-arc) and lessons.
+
+---
+
 - [Ryan Greenblatt - Solving Chollet's ARC-AGI with GPT4o](https://www.youtube.com/watch?v=z9j3wB1RRGA) interview by MLST.
 - Duration: 2h18m.
 - Interview about how the solution works and lessons.
