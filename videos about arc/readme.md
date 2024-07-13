@@ -25,6 +25,11 @@
 
 ---
 
+- [The ARC Prize: Efficiency, Intuition, and AGI, with Mike Knoop, co-founder of Zapier](https://www.youtube.com/watch?v=XECXoS-D6kQ) by Cognitive Revolution "How AI Changes Everything".
+- Duration: 1h56m.
+
+---
+
 - [Implications of solving the ARC benchmark](https://www.youtube.com/watch?v=ZyA_6sX4ATY) by François Chollet.
 - Duration: 1m28s.
 
