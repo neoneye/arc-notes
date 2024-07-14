@@ -227,6 +227,12 @@
 
 ---
 
+- [Machines Don't Think Like Us (And Why That's Okay)](https://youtu.be/ztNdagyT8po?si=Y0VhGB9wlrFyU81j&t=3470) by Machine Learning Street Talk.
+- Duration: 2h15m, the entire talk.
+- Duration: 7m00s, about ARC.
+
+---
+
 - [ARC Challenge - IBS/KAIST Data Science Seminar Series](https://youtu.be/k6xhRIiJkNw) by Sundong Kim.
 - Duration: 50m13s.
 - Discussion about how to solve ARC.
