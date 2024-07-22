@@ -239,6 +239,12 @@
 
 ---
 
+- [Intelligence = Sampling + Filtering](https://www.youtube.com/watch?v=-0IoG68SazI&t=2788s) by John Tan Chong Min.
+- Duration: 2h03m.
+- Duration: 16m00s, about ARC.
+
+---
+
 - [Modular Learning and Reasoning on ARC](https://youtu.be/wyabkjnadng), speakers: Dr. Andrzej Banburski and Simon Alford​ (Poggio Lab).
 - Duration: 1h31m.
 - Discussion about how to solve ARC.
