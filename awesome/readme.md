@@ -43,7 +43,7 @@
 * [arc-site](https://github.com/victorvikram/arc-site) - Edit train and test pairs. It runs in the browser, without backend.
 * [arc-app](https://github.com/victorvikram/arc-app) - Seems to be react, with frontend and server.
 * [arc-level-editor](https://github.com/arc-community/arc-level-editor) - Edit train and test pairs. Requires a nodejs installation.
-* [ARC-AGI Puzzle Maker](https://arc-agi-puzzle-maker.vercel.app/) - Edit train and test pairs.
+* [ARC-AGI Playground](https://arcplayground.com/), [ARC-AGI Puzzle Maker](https://arc-agi-puzzle-maker.vercel.app/) - Edit train and test pairs.
 
 
 ## Tools
