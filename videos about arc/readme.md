@@ -233,6 +233,12 @@
 
 ---
 
+- [CHATGPT DOESN'T REASON! (Top scientist bombshell)](https://youtu.be/y1WnHpedi2A?si=-vB8Xq-zZRKyYFzG&t=3023) by Machine Learning Street Talk.
+- Duration: 1h42m, the entire talk.
+- Duration: 3m00s, about ARC.
+
+---
+
 - [ARC Challenge - IBS/KAIST Data Science Seminar Series](https://youtu.be/k6xhRIiJkNw) by Sundong Kim.
 - Duration: 50m13s.
 - Discussion about how to solve ARC.
