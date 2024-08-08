@@ -32,6 +32,8 @@ The 100 unseen tasks is found in the file: `"/kaggle/input/arc-prize-2024/arc-ag
 
 Puzzle with multiple tests.
 
+The `"test"` pairs have no `"output"`, since this is what is to be predicted.
+
 ```json
 {
     ...
