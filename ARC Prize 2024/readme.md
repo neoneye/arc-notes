@@ -9,6 +9,10 @@ How to load input and save output:
 
 The file must be saved in the current dir, as: `"submission.json"`
 
+All the task_ids in the input challenges json file, must also be present in the `submission.json` file. Despite not having a prediction for that task.
+
+Both `"attempt_1"` and `"attempt_2"` must be present, even though my solve doesn't have 2 predictions. 
+
 Puzzles can have multiple tests.
 Each test can have 2 attempts at a solution.
 
@@ -16,11 +20,11 @@ Each test can have 2 attempts at a solution.
 {
 	...
 	"3345333e": [
-    		{"attempt_1": [[0, 0], [0, 0]],"attempt_2": [[0, 0], [0, 0]]}
+			{"attempt_1": [[0, 0], [0, 0]],"attempt_2": [[0, 0], [0, 0]]}
 	],
 	"3428a4f5": [
-   		{"attempt_1": [[0, 0], [0, 0]],"attempt_2": [[0, 0], [0, 0]]}, 
-    		{"attempt_1": [[0, 0], [0, 0]],"attempt_2": [[0, 0], [0, 0]]}
+			{"attempt_1": [[0, 0], [0, 0]],"attempt_2": [[0, 0], [0, 0]]}, 
+			{"attempt_1": [[0, 0], [0, 0]],"attempt_2": [[0, 0], [0, 0]]}
 	],
 	...
 }
