@@ -165,6 +165,12 @@
 
 # Paper - On the Measure of Intelligence
 
+
+- [General Intelligence: Define it, measure it, build it](https://www.youtube.com/watch?v=nL9jEy99Nh0) by François Chollet.
+- Duration: 53m40s.
+
+---
+
 - [Francois Chollet - On the Measure Of Intelligence](https://youtu.be/mEVnu-KZjq4) by Machine Learning Street Talk (aka. MLST).
 - Duration: 2h33m.
 
