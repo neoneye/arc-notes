@@ -275,6 +275,12 @@
 
 ---
 
+- [AI’s Challenge of Understanding the World](https://youtu.be/tZi9E8HAc9g?si=vkZixRh2hpDEjVXo&t=1954) by Melanie Mitchell.
+- Duration: 1h27m, the entire talk.
+- Duration: 10m00s, about ARC.
+
+---
+
 - [The Debate Over “Understanding” in AI’s Large Language Models](https://youtu.be/O5SLGAWSXMw?si=FvAdO0Mc6ahvCzmm&t=1998) by Melanie Mitchell.
 - Duration: 44m41s, the entire talk.
 - Duration: 11m00s, about ARC.
