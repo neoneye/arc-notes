@@ -54,6 +54,12 @@ These datasets all follow the same json format as the original ARC dataset.
 - Authors: Andreas Köpf
 - License: MIT
 
+## ARC dataset tama
+
+- Repo: [arc-dataset-tama](https://github.com/neoneye/arc-dataset-tama)
+- Authors: Simon Strandgaard.
+- License: MIT
+
 ## ARC dataset diva
 
 - Repo: [arc-dataset-diva](https://github.com/neoneye/arc-dataset-diva)
