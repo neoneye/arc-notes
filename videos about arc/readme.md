@@ -355,6 +355,13 @@
 - [GPT 4: The Progress of AI, ConceptARC Challenge AI Paper Explained](https://youtu.be/2ep5-0AlKMA) by Harry Mapodile.
 - Duration: 7m33s.
 
+---
+
+- [Building an ARC solver with LlamaIndex and Streamlit](https://www.youtube.com/watch?v=A42pLWu8Cdw) by Andrei Fajardo. 
+- Duration: 15m29s.
+- [repo](https://github.com/streamlit/cookbook/tree/main/recipes/llamaindex)
+- [demo app](https://arc-solver-llama-index.streamlit.app/)
+
 
 # Various
 
