@@ -5,6 +5,11 @@
 
 
 
+- [It's Not About Scale, It's About Abstraction](https://www.youtube.com/watch?v=s7_NlkBwdj8) by François Chollet / MLST.
+- Duration: 46m21s.
+
+---
+
 - [Explore ARC-AGI Data + Play](https://www.youtube.com/watch?v=LLxiPrIxdqs) by ARC Prize team.
 - Duration: 11m02s.
 
