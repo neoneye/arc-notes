@@ -232,6 +232,11 @@
 
 # Discussion
 
+- [Towards Understanding Modern Alchemy](https://www.youtube.com/watch?v=DWlhEFgomOQ) by Simons Institue.
+- Duration: 37m13s.
+
+---
+
 - [ARC Challenge Solver - 2024 AGI Hackathon San Francisco](https://www.youtube.com/watch?v=DiwmXHPbles) by Startup Pitches.
 - Duration: 8m01s.
 - Discussing Ryan Greenblatt’s code.
