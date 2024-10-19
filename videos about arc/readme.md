@@ -232,6 +232,11 @@
 
 # Discussion
 
+- [Decompiling Dreams: A New Approach to ARC?](https://www.youtube.com/watch?v=3ZTNps2PraM) interview with Alessandro Palmarini and Machine Learning Street Talk.
+- Duration: 51m34s.
+
+---
+
 - [Towards Understanding Modern Alchemy](https://www.youtube.com/watch?v=DWlhEFgomOQ) by Simons Institue.
 - Duration: 37m13s.
 
