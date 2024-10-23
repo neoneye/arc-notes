@@ -496,6 +496,11 @@
 - Duration: 1m30s, about ARC.
 - Duration: 27m24s, the entire video.
 
+---
+
+- [ARC Prize University Tour (USC) - Recap](https://www.youtube.com/watch?v=c9gdhfYJK48)
+- Duration: 18m42s.
+
 # Roasting ARC
 
 - [I was not impressed by the ARC-AGI challenge (not actually a test for AGI)](https://www.youtube.com/watch?v=ZogIWnIMK-E) by David Shapiro.
