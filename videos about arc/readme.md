@@ -232,6 +232,11 @@
 
 # Discussion
 
+- [ARC Prize University Tour @ BU](https://www.youtube.com/watch?v=JEFS-DtG9dM) presentation by Mark Knoop + François Chollet.
+- Duration: 1h04m.
+
+---
+
 - [Decompiling Dreams: A New Approach to ARC?](https://www.youtube.com/watch?v=3ZTNps2PraM) interview with Alessandro Palmarini and Machine Learning Street Talk.
 - Duration: 51m34s.
 
