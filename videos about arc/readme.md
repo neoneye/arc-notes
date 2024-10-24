@@ -10,6 +10,11 @@
 
 ---
 
+- [ARC Prize 2024 University Tour Virtual Event](https://www.youtube.com/watch?v=NDbNlPiS898) by ARC Prize team.
+- Duration: 1h11m.
+
+---
+
 - [Explore ARC-AGI Data + Play](https://www.youtube.com/watch?v=LLxiPrIxdqs) by ARC Prize team.
 - Duration: 11m02s.
 
