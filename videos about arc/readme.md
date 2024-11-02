@@ -114,6 +114,12 @@
 
 ---
 
+- [I tried to solve ARC-AGI as an Average Human!!!)](https://www.youtube.com/watch?v=muzl7IaSUtc) by 
+1littlecoder.
+- Duration: 38m50s.
+
+---
+
 - [The Hardest Kaggle Challenge](https://youtu.be/K5KDZLHsr1o) by Siraj Raval.
 - Duration: 40m253.
 
