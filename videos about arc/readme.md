@@ -147,6 +147,11 @@
 
 ---
 
+- [Pattern Recognition vs True Intelligence - Francois Chollet](https://www.youtube.com/watch?v=JTU8Ha4Jyfc) interview by MLST.
+- Duration: 2h42m.
+
+---
+
 - [Alejandro de Miquel - 2nd in ARC Kaggle Challenge - EP 03](https://youtu.be/W2pBAMoSx6E).
 - Duration: 2h01m.
 - Interview about how the solution works and lessons.
