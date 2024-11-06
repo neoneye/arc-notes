@@ -3,7 +3,10 @@
 
 # Intro to ARC
 
+- [New ARC-AGI high score! 55.5% (MindsAI)](https://www.youtube.com/watch?v=-M0HZGKF4UI) by Michael Hodel + Benjamin Crouzier + MLST.
+- Duration: 6m53s.
 
+---
 
 - [It's Not About Scale, It's About Abstraction](https://www.youtube.com/watch?v=s7_NlkBwdj8) by François Chollet / MLST.
 - Duration: 46m21s.
