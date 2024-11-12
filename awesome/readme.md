@@ -4,7 +4,7 @@
 
 ## News and status
 
-* [ARC Prize](https://arcprize.org/) - ARC Prize is a $1,000,000+ public competition to beat and open source a solution to the ARC-AGI benchmark.
+* [ARC Prize](https://arcprize.org/) - ARC Prize is a $1,100,000+ public competition to beat and open source a solution to the ARC-AGI benchmark.
 * [Kaggle - ARC Prize 2024](https://www.kaggle.com/competitions/arc-prize-2024) - Submit solutions here.
 * [lab42.global/arcathon](https://lab42.global/arcathon/) - This was where ARCathon 2022 and ARCathon 2023 was hosted. ARCathon is now ARC Prize.
 * [ARC Prize - ARC Resources](https://docs.google.com/spreadsheets/d/1fR4cgjY1kNKN_dxiidBQbyT6Gv7_Ko7daKOjlYojwTY/edit?gid=658867951#gid=658867951) - Huge collection of Videos, Repos, Papers, Other.
@@ -87,12 +87,15 @@ Jack Cole and Mohamed Osman.
 
 ## Best implementations
 
-The 2024 rules allows for 2 predictions.
+##### Solutions - ARC Prize 2024
 
+Implementations for ARC Prize 2024. The rules allowed for 2 predictions.
+
+* [Guillermo Barbadillo's repo](https://github.com/ironbar/arc24), [docs](https://ironbar.github.io/arc24/05_Solution_Summary/) - Solves 40 out of 100 hidden tasks.
 * [🧮ARC24🧠Developed 2020 Winning Solutions by Mehran Kazeminia, Somayyeh Gholami](https://www.kaggle.com/code/mehrankazeminia/3-arc24-developed-2020-winning-solutions) - Solves 26 out of 100 hidden tasks.
 
 
-##### Earlier than 2024 ARC Prize
+##### Solutions - Earlier than 2024 ARC Prize
 
 Implementations that are older than 2024. The rules allowed for 3 predictions.
 
