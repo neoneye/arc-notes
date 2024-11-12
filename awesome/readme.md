@@ -92,6 +92,7 @@ Jack Cole and Mohamed Osman.
 Implementations for ARC Prize 2024. The rules allowed for 2 predictions.
 
 * [Guillermo Barbadillo's repo](https://github.com/ironbar/arc24), [docs](https://ironbar.github.io/arc24/05_Solution_Summary/) - Solves 40 out of 100 hidden tasks.
+* [Jean-François Puget's repo](https://github.com/jfpuget/ARC-AGI-Challenge-2024) - Solves 26 out of 100 hidden tasks.
 * [🧮ARC24🧠Developed 2020 Winning Solutions by Mehran Kazeminia, Somayyeh Gholami](https://www.kaggle.com/code/mehrankazeminia/3-arc24-developed-2020-winning-solutions) - Solves 26 out of 100 hidden tasks.
 
 
