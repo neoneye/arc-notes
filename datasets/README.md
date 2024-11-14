@@ -114,6 +114,12 @@ This dataset enhances the original ARC dataset, so every `test` pair have gotten
 - Authors: Krzysztof Czarnecki
 - License: Unspecified
 
+## ARC-HTML
+
+- Repo: [pfletcherhill/mini-arc](https://github.com/pfletcherhill/mini-arc) - Unfortunately the project name clashes with the popular `MiniARC` dataset.
+- Authors: Paul Fletcher-Hill
+- License: Unspecified
+- Comment: The 43 puzzle generators are html files, so it's non-trivial to extract an ARC like json file.
 
 # Corrections to the original ARC dataset
 
