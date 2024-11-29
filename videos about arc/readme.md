@@ -424,6 +424,12 @@
 
 ---
 
+- [Road to AGI | Recap 01 | ARC, Neuro-Symbolic AI, Intermediate Language](https://www.youtube.com/watch?v=L2Arjj6LV5M) by Nucleoid AI.
+- Duration: 3m47s.
+- [repo](https://github.com/NucleoidAI/Nucleoid)
+
+---
+
 - [ARC Challenge Live Coding](https://www.youtube.com/live/HGgrSz-jxdU) by Yannic Kilcher.
 - Duration: 1h29m.
 
