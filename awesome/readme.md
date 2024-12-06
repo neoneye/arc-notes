@@ -91,7 +91,7 @@ Jack Cole and Mohamed Osman.
 
 Implementations for ARC Prize 2024. The rules allowed for 2 predictions.
 
-* [the ARChitects - repo](https://www.kaggle.com/code/gregkamradt/arc-prize-v8/notebook?scriptVersionId=211457842), [docs](https://github.com/da-fr/arc-prize-2024/blob/main/the_architects.pdf) - Solves 53.5 out of the 100 hidden tasks. LLM based.
+* [the ARChitects - repo1](https://github.com/da-fr/arc-prize-2024/tree/main), [repo2](https://www.kaggle.com/code/gregkamradt/arc-prize-v8/notebook?scriptVersionId=211457842), [docs](https://github.com/da-fr/arc-prize-2024/blob/main/the_architects.pdf) - Solves 53.5 out of the 100 hidden tasks. LLM based.
 * [Guillermo Barbadillo - repo](https://github.com/ironbar/arc24), [docs](https://ironbar.github.io/arc24/05_Solution_Summary/) - Solves 40 out of 100 hidden tasks. LLM based.
 * [Agnis Liukis (alijs) - repo](https://www.kaggle.com/code/gregkamradt/arc-prize-2024-solution-4th-place-score-40-811b72) - Solves 40 out of 100 hidden tasks.
 * [William Wu - repo](https://www.kaggle.com/code/gregkamradt/small-sample-arc24) - Solves 37 out of 100 hidden tasks.
