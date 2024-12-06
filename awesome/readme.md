@@ -96,7 +96,7 @@ Implementations for ARC Prize 2024. The rules allowed for 2 predictions.
 * [Agnis Liukis (alijs) - repo](https://www.kaggle.com/code/gregkamradt/arc-prize-2024-solution-4th-place-score-40-811b72) - Solves 40 out of 100 hidden tasks.
 * [William Wu - repo](https://www.kaggle.com/code/gregkamradt/small-sample-arc24) - Solves 37 out of 100 hidden tasks.
 * [PoohAI - repo](https://www.kaggle.com/code/gregkamradt/arc-prize-2024-8th-place-solution), [docs](https://drive.google.com/file/d/1kTom9M54LVfLbPDQHpGgfUs3y1IYIpy2/view) - Solves 37 out of 100 hidden tasks.
-* [Jean-François Puget - repo](https://github.com/jfpuget/ARC-AGI-Challenge-2024) - Solves 26 out of 100 hidden tasks.
+* [Jean-François Puget - repo](https://github.com/jfpuget/ARC-AGI-Challenge-2024), [docs](https://github.com/jfpuget/ARC-AGI-Challenge-2024/blob/main/arc.pdf) - Solves 26 out of 100 hidden tasks. LLM based.
 * [🧮ARC24🧠Developed 2020 Winning Solutions by Mehran Kazeminia, Somayyeh Gholami](https://www.kaggle.com/code/mehrankazeminia/3-arc24-developed-2020-winning-solutions) - Solves 26 out of 100 hidden tasks.
 
 #### Solutions - ARC Prize 2024 - ARC-AGI-PUB dataset
