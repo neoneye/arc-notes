@@ -66,7 +66,6 @@
 
 * [Dataset-Induced Meta-Learning (and other tricks): Improving model efficiency on ARC](https://lab42.global/community-post-model-efficiency/) - by 
 Jack Cole and Mohamed Osman.
-* [Getting 50% (SoTA) on ARC-AGI with GPT-4o](https://redwoodresearch.substack.com/p/getting-50-sota-on-arc-agi-with-gpt), [repo](https://github.com/rgreenblatt/arc_draw_more_samples_pub) - Ryan Greenblatt.
 * [Large Language Models as General Pattern Machines](https://general-pattern-machines.github.io/) - Solves 85 of 800 tasks.
 * [GPT4 solving LARC tasks](https://github.com/evanthebouncy/larc_gpt4) - Solving ARC tasks using the LARC human descriptions with GPT4, solves 139 of 384 tasks.
 * [Tan John Chong Min's ARC prompts](https://github.com/tanchongmin/ARC-Challenge) - Solves 50 of 111 training set problems!
@@ -88,16 +87,28 @@ Jack Cole and Mohamed Osman.
 
 ## Best implementations
 
-##### Solutions - ARC Prize 2024
+#### Solutions - ARC Prize 2024 - Hidden dataset
 
 Implementations for ARC Prize 2024. The rules allowed for 2 predictions.
 
-* [Guillermo Barbadillo's repo](https://github.com/ironbar/arc24), [docs](https://ironbar.github.io/arc24/05_Solution_Summary/) - Solves 40 out of 100 hidden tasks.
-* [Jean-François Puget's repo](https://github.com/jfpuget/ARC-AGI-Challenge-2024) - Solves 26 out of 100 hidden tasks.
+* [the ARChitects - repo](https://www.kaggle.com/code/gregkamradt/arc-prize-v8/notebook?scriptVersionId=211457842), [docs](https://github.com/da-fr/arc-prize-2024/blob/main/the_architects.pdf) - Solves 53.5 out of the 100 hidden tasks. LLM based.
+* [Guillermo Barbadillo - repo](https://github.com/ironbar/arc24), [docs](https://ironbar.github.io/arc24/05_Solution_Summary/) - Solves 40 out of 100 hidden tasks. LLM based.
+* [Agnis Liukis (alijs) - repo](https://www.kaggle.com/code/gregkamradt/arc-prize-2024-solution-4th-place-score-40-811b72) - Solves 40 out of 100 hidden tasks.
+* [William Wu - repo](https://www.kaggle.com/code/gregkamradt/small-sample-arc24) - Solves 37 out of 100 hidden tasks.
+* [PoohAI - repo](https://www.kaggle.com/code/gregkamradt/arc-prize-2024-8th-place-solution), [docs](https://drive.google.com/file/d/1kTom9M54LVfLbPDQHpGgfUs3y1IYIpy2/view) - Solves 37 out of 100 hidden tasks.
+* [Jean-François Puget - repo](https://github.com/jfpuget/ARC-AGI-Challenge-2024) - Solves 26 out of 100 hidden tasks.
 * [🧮ARC24🧠Developed 2020 Winning Solutions by Mehran Kazeminia, Somayyeh Gholami](https://www.kaggle.com/code/mehrankazeminia/3-arc24-developed-2020-winning-solutions) - Solves 26 out of 100 hidden tasks.
 
+#### Solutions - ARC Prize 2024 - ARC-AGI-PUB dataset
 
-##### Solutions - Earlier than 2024 ARC Prize
+Implementations for ARC Prize 2024. The rules allowed for 2 predictions.
+
+* [Jeremy Berman - repo](https://www.kaggle.com/code/jerber/jeremy-arc), [docs](https://jeremyberman.substack.com/p/how-i-got-a-record-536-on-arc-agi) - Solves 53.6 out of 100 semi-private tasks.
+* [MARA (BARC)+MIT - repo](https://www.kaggle.com/code/ekinakyurek/my-sub?scriptVersionId=205863014), [docs](https://ekinakyurek.github.io/papers/ttt.pdf) - Solves 47.5 out of 100 semi-private tasks.
+* [Ryan Greenblatt - repo1](https://www.kaggle.com/code/rgreenblatt/rg-basic-ported-submission), [repo2](https://github.com/rgreenblatt/arc_draw_more_samples_pub), [docs](https://redwoodresearch.substack.com/p/getting-50-sota-on-arc-agi-with-gpt) - Solves 43 out of 100 semi-private tasks.
+
+
+#### Solutions - Earlier than 2024 ARC Prize
 
 Implementations that are older than 2024. The rules allowed for 3 predictions.
 
