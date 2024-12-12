@@ -69,6 +69,7 @@ Jack Cole and Mohamed Osman.
 * [Large Language Models as General Pattern Machines](https://general-pattern-machines.github.io/) - Solves 85 of 800 tasks.
 * [GPT4 solving LARC tasks](https://github.com/evanthebouncy/larc_gpt4) - Solving ARC tasks using the LARC human descriptions with GPT4, solves 139 of 384 tasks.
 * [Tan John Chong Min's ARC prompts](https://github.com/tanchongmin/ARC-Challenge) - Solves 50 of 111 training set problems!
+* [Andreas Köpf's arc-agi-2](https://github.com/open-thought/arc-agi-2) - Annotations of RE-ARC.
 * [Andreas Köpf's arc-agents](https://github.com/andreaskoepf/arc-agents) - Solving ARC tasks with CodeLlama, Llama2, WizardCoder or similar language models, solves 45 of 800 tasks.
 * [Simon Strandgaard's ARC prompts](https://github.com/neoneye/arc-prompt) - Experiments solving ARC tasks with GPT4 or similar language models, solves 39 of 800 tasks.
 * [ARC_LLMs: Keeping track of LLM progress on ARC](https://github.com/alxndrTL/ARC_LLMs), [website source code](https://github.com/alxndrTL/alxndrTL.github.io/tree/master/ARC) and [visualization](https://alxndrtl.github.io/ARC/) - Visualize what ARC tasks gets solved (or not) by LLMs!.
