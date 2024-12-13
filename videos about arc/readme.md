@@ -147,6 +147,12 @@
 
 ---
 
+- [ARC Prize 2024 Hacia la Inteligencia Artificial General](https://www.youtube.com/watch?v=mscAdOug1lM) and [same video here](https://www.youtube.com/watch?v=9W0qI1b5ZpE) by Guillermo Barbadillo, 2nd place in ARC Prize 2024.
+- Duration: 1h01m.
+- The presentation is spanish. English subtitles can be enabled.
+
+---
+
 - [Pattern Recognition vs True Intelligence - Francois Chollet](https://www.youtube.com/watch?v=JTU8Ha4Jyfc) interview by MLST.
 - Duration: 2h42m.
 
@@ -526,8 +532,18 @@
 - [ARC Prize University Tour (USC) - Recap](https://www.youtube.com/watch?v=c9gdhfYJK48)
 - Duration: 18m42s.
 
+---
+
+- [Solving all 400 hard ARC AGI PRIZE Puzzles in a weekend](https://www.youtube.com/watch?v=KNHMise8Q1I) by Nicogs Playground.
+- Duration: 0m15s.
+
 # Roasting ARC
 
 - [I was not impressed by the ARC-AGI challenge (not actually a test for AGI)](https://www.youtube.com/watch?v=ZogIWnIMK-E) by David Shapiro.
 - Duration: 11m12s.
+
+---
+
+- [12 Days of OpenAI, NeurIPS, ARC Prize, and Llama 3.3 70B](https://youtu.be/UVMndg9WX9g?si=8RimP3MO_eztmBML&t=1312) by Tim Hwang, Marina Danilevsky, Kate Soule and Vyoma Gajjar.
+- Duration: 8m30s.
 
