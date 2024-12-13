@@ -354,6 +354,12 @@
 
 # Using language models / transformers
 
+- [TEST TIME Optimized AI REASONING (MIT)](https://www.youtube.com/watch?v=3ea2O7qfPjo) - 
+Discover AI
+- Duration: 28m04s.
+
+---
+
 - [LLMs as a System of Multiple Expert Agents to solve the ARC Challenge - Detailed Walkthrough](https://www.youtube.com/watch?v=sTvonsD5His) by John Tan Chong Min.
 - Duration: 1h27m.
 
