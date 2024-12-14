@@ -76,6 +76,7 @@ Jack Cole and Mohamed Osman.
 * [Fast and flexible: Human program induction in abstract reasoning tasks](https://arc-visualizations.github.io/) and [repo](https://github.com/arc-visualizations/arc-visualizations.github.io) - by Aysja Johnson, Wai Keen Vong, Brenden M. Lake and Todd M. Gureckis.
 * [ARC-AGI - Claude 3.5 Sonnet and GPT-4o comparison](https://mesokosmos.notion.site/ARC-AGI-Claude-3-5-Sonnet-and-GPT-4o-comparison-1d90907ca1784832a0acc315882b1dc2), [repo](https://github.com/markomanninen/ARC-AGI/tree/master/test) - by Marko Manninen.
 * [ConceptSearch repo](https://github.com/kksinghal/concept-search), [paper](https://arxiv.org/abs/2412.07322) - by Kartik Singhal, Gautam Shroff.
+* [Enhancing Reasoning Capabilities of Large Language Models Using Agents](https://github.com/asw615/ARC-AGI-Multiagents) - Experiments solving ARC tasks with `gpt-4o`, `claude-3-5` or similar language models.
 
 
 ## Videos
