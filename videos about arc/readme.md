@@ -529,6 +529,11 @@ Discover AI
 
 ---
 
+- [ARC Challenge: Testing leading AI Models on Complex Reasoning Tasks!](https://www.youtube.com/watch?v=d8mWCZNVpyw)
+- Duration: 16m51s.
+
+---
+
 - [The IQ of AI: Measuring Intelligence in AI Models](https://youtu.be/QfhLl3MfPFk?si=3giUQHOC19kJj9OJ&t=1182) by Jodie Burchell.
 - Duration: 1m30s, about ARC.
 - Duration: 27m24s, the entire video.
