@@ -267,6 +267,11 @@
 
 ---
 
+- [Neural Networks for Abstraction & Reasoning, ARC-AGI, NeurIPS 2024, Dreamcoder](https://www.youtube.com/watch?v=os3SHkrd-UQ) by Mikel Bober Irizar + Soumya Banerjee.
+- Duration 12m00s.
+
+---
+
 - [Towards Understanding Modern Alchemy](https://www.youtube.com/watch?v=DWlhEFgomOQ) by Simons Institue.
 - Duration: 37m13s.
 
