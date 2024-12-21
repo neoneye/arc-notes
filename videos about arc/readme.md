@@ -289,6 +289,11 @@ Discover AI.
 
 ---
 
+- [ARC-AGI - Why a Thorn for AI? Bergson-holographic-96](https://www.youtube.com/watch?v=U1id1JOnil4) presentation by Stephen E. Robbins.
+- Duration: 55m44s.
+
+---
+
 - [Machines Don't Think Like Us (And Why That's Okay)](https://youtu.be/ztNdagyT8po?si=Y0VhGB9wlrFyU81j&t=3470) by Machine Learning Street Talk.
 - Duration: 2h15m, the entire talk.
 - Duration: 7m00s, about ARC.
