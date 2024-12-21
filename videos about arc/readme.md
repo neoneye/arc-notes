@@ -3,6 +3,12 @@
 
 # Intro to ARC
 
+- [o3 Model by OpenAI TESTED ($1800+ per task)](https://www.youtube.com/watch?v=YjyLBabHQiQ) by 
+Discover AI.
+- Duration: 23m01s.
+
+---
+
 - [New ARC-AGI high score! 55.5% (MindsAI)](https://www.youtube.com/watch?v=-M0HZGKF4UI) by Michael Hodel + Benjamin Crouzier + MLST.
 - Duration: 6m53s.
 
