@@ -20,11 +20,11 @@ These datasets all follow the same json format as the original ARC dataset.
 
 - Repo: [ConceptARC](https://github.com/victorvikram/ConceptARC/tree/main/corpus)
 - Authors: Arseny Moskvichev, Victor Vikram Odouard, Melanie Mitchell
-- License: Unspecified
+- License: MIT
 
 ## 1D-ARC
 
-- Repo: [1D-ARC](https://github.com/khalil-research/1D-ARC/tree/main/dataset)
+- Repo: [khalil-research/1D-ARC](https://github.com/khalil-research/1D-ARC/tree/main/dataset)
 - Authors: Yudong (Will) Xu, Wenhao Li, Pashootan Vaezipoor, Scott Sanner, Elias B. Khalil
 - License: MIT
 
@@ -33,6 +33,13 @@ These datasets all follow the same json format as the original ARC dataset.
 - Repo: [Sequence_ARC](https://github.com/seedling123/Sequence_ARC)
 - Authors: Seedling123
 - License: Apache-2.0
+
+## arc\_1d by optozoraz
+
+- Repo: [optozorax/arc_1d](https://github.com/optozorax/arc_1d)
+- [Visualization](https://optozorax.github.io/arc_1d/)
+- Authors: Ilya Sheprut
+- License: MIT
 
 ## ARC\_synthetic\_extend
 
