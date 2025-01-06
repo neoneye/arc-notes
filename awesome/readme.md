@@ -40,6 +40,7 @@
 * [O2ARC](https://o2arc.com/), [repo](https://github.com/GIST-DSLab/O2ARC_V2), [repo](https://github.com/KSB21ST/MINI-ARC/) - Editor with ability to record user interaction while solving an ARC task.
 * [ARCreate](https://arc-editor.lab42.global/) - Contribute with new tasks to the ARC 2 dataset.
 * [ARC-Game](https://volotat.github.io/ARC-Game/), [repo](https://github.com/volotat/ARC-Game) - The ARC 1 dataset made into a fun game that runs in the browser.
+* [basis.ai, ARC - Interactive Solver](https://www.basis.ai/arc_interface/solver) - Solve ARC-AGI puzzles and describe the approach at the moment of submission.
 * [arc-site](https://github.com/victorvikram/arc-site) - Edit train and test pairs. It runs in the browser, without backend.
 * [arc-app](https://github.com/victorvikram/arc-app) - Seems to be react, with frontend and server.
 * [arc-level-editor](https://github.com/arc-community/arc-level-editor) - Edit train and test pairs. Requires a nodejs installation.
