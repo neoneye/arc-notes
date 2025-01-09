@@ -3,6 +3,12 @@
 
 # Intro to ARC
 
+- [Chollet -- "o-models FAR beyond classical DL"](https://www.youtube.com/watch?v=w9WE1aOPjHc) by 
+MLST.
+- Duration: 1h26m.
+
+---
+
 - [o3 Model by OpenAI TESTED ($1800+ per task)](https://www.youtube.com/watch?v=YjyLBabHQiQ) by 
 Discover AI.
 - Duration: 23m01s.
