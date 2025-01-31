@@ -65,6 +65,7 @@
 
 ## Prompt and language
 
+* [henhouseharry83/arcsolutions](https://github.com/henhouseharry83/arcsolutions) - Excellent overview table with several ARC solvers.
 * [Dataset-Induced Meta-Learning (and other tricks): Improving model efficiency on ARC](https://lab42.global/community-post-model-efficiency/) - by 
 Jack Cole and Mohamed Osman.
 * [Large Language Models as General Pattern Machines](https://general-pattern-machines.github.io/) - Solves 85 of 800 tasks.
