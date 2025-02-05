@@ -3,6 +3,12 @@
 
 # Intro to ARC
 
+- [R1, OpenAI’s o3, and the ARC-AGI Benchmark: Insights from Mike Knoop on the Gradient Dissent Podcast](https://www.youtube.com/watch?v=SSA8vNrFpXI) by 
+Weights & Biases.
+- Duration: 1h12m.
+
+---
+
 - [Chollet -- "o-models FAR beyond classical DL"](https://www.youtube.com/watch?v=w9WE1aOPjHc) by 
 MLST.
 - Duration: 1h26m.
