@@ -312,6 +312,12 @@ Discover AI.
 
 ---
 
+- [Jakob Foerster, ImageNet Moment for Reinforcement Learning?](https://youtu.be/Jr_nGkCG3og?si=f0Vws0sxv0nRJseb&t=1415) by Machine Learning Street Talk.
+- Duration: 53m31s, the entire talk.
+- Duration: 5m00s, about ARC.
+
+---
+
 - [CHATGPT DOESN'T REASON! (Top scientist bombshell)](https://youtu.be/y1WnHpedi2A?si=-vB8Xq-zZRKyYFzG&t=3023) by Machine Learning Street Talk.
 - Duration: 1h42m, the entire talk.
 - Duration: 3m00s, about ARC.
