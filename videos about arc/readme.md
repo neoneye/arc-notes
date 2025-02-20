@@ -147,6 +147,12 @@ Discover AI.
 
 # Interview with the best
 
+- [Can Latent Program Networks Solve Abstract Reasoning?](https://www.youtube.com/watch?v=PHBItVuudbU) interview by MLST.
+- Duration: 51m26s.
+- Interview about how the solution works and lessons.
+
+---
+
 - [Jack Cole, Mohammed Osman and Michael Hodel](https://www.youtube.com/watch?v=jSAT_RuJ_Cg) interview by MLST.
 - Duration: 2h15m.
 - Interview about how the solution works and lessons.
