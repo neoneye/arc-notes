@@ -177,6 +177,11 @@ Discover AI.
 
 ---
 
+- [Chris Lu + Robert Tjarko Lange + Cong Lu: Can AI Improve Itself?](https://www.youtube.com/watch?v=1kwbp8hRRfs) interview by MLST.
+- Duration: 1h37m.
+
+---
+
 - [Pattern Recognition vs True Intelligence - Francois Chollet](https://www.youtube.com/watch?v=JTU8Ha4Jyfc) interview by MLST.
 - Duration: 2h42m.
 
