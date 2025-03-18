@@ -3,6 +3,12 @@
 
 # Intro to ARC
 
+- [Panel discussion on ARC Prize 2024 (Zurich)](https://www.youtube.com/watch?v=mt3Im4j5iaQ) by 
+MLST.
+- Duration: 39m29s.
+
+---
+
 - [R1, OpenAI’s o3, and the ARC-AGI Benchmark: Insights from Mike Knoop on the Gradient Dissent Podcast](https://www.youtube.com/watch?v=SSA8vNrFpXI) by 
 Weights & Biases.
 - Duration: 1h12m.
