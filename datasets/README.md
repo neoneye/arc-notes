@@ -88,6 +88,15 @@ This dataset enhances the original ARC dataset, so every `test` pair have gotten
 - Authors: SoseSose
 - License: Unspecified
 
+## ARC Interactive
+
+Captured interaction histories as users are solving ARC-AGI puzzles.
+This may be relevant if you are trying to mimic what actions humans are performing.
+
+- Repo: [ARC-Interactive-History-Dataset](https://github.com/neoneye/ARC-Interactive-History-Dataset)
+- Authors: Simon Strandgaard
+- License: MIT
+
 ## ARC Bad Predictions
 
 This dataset contains incorrect predictions that are somewhat close to the target.
