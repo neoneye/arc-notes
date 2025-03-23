@@ -153,6 +153,12 @@ Discover AI.
 
 # Interview with the best
 
+- [Test-Time Adaptation: the key to reasoning with DL](https://www.youtube.com/watch?v=3p0O28W1ZHg) by 
+MLST.
+- Duration: 1h03m.
+
+---
+
 - [Can Latent Program Networks Solve Abstract Reasoning?](https://www.youtube.com/watch?v=PHBItVuudbU) interview by MLST.
 - Duration: 51m26s.
 - Interview about how the solution works and lessons.
