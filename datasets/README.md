@@ -88,6 +88,14 @@ This dataset enhances the original ARC dataset, so every `test` pair have gotten
 - Authors: SoseSose
 - License: Unspecified
 
+## ARC Bad Predictions
+
+This dataset contains incorrect predictions that are somewhat close to the target.
+This may be relevant if your ARC-solver can repair on a previous prediction or does ranking of multiple solutions.
+
+- Repo: [arc-bad-predictions](https://huggingface.co/datasets/neoneye/arc-bad-prediction)
+- Authors: Simon Strandgaard
+- License: MIT
 
 # Task generators
 
