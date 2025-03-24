@@ -153,9 +153,13 @@ Discover AI.
 
 # Interview with the best
 
-- [Test-Time Adaptation: the key to reasoning with DL](https://www.youtube.com/watch?v=3p0O28W1ZHg) by 
-MLST.
+- [Test-Time Adaptation: the key to reasoning with DL](https://www.youtube.com/watch?v=3p0O28W1ZHg) by MLST.
 - Duration: 1h03m.
+
+---
+
+- [Exploring Program Synthesis: Francois Chollet, Kevin Ellis, Zenna Tavares](https://www.youtube.com/watch?v=TQDCsyuuwsg) by MLST.
+- Duration: 31m39s.
 
 ---
 
