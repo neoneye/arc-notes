@@ -4,7 +4,13 @@ For simplicity, most of the datasets are contained in a [single repo](https://gi
 
 These datasets all follow the same json format as the original ARC dataset.
 
-## ARC-AGI - The original ARC dataset
+## ARC-AGI-2 - The current benchmark
+
+- Repo: [arcprize/ARC-AGI-2](https://github.com/arcprize/ARC-AGI-2)
+- Authors: François Chollet + ARC Prize + Task Contributors
+- License: Apache-2.0
+
+## ARC-AGI-1 - The previous benchmark
 
 - Repo: [fchollet/ARC-AGI](https://github.com/fchollet/ARC-AGI/tree/master/data)
 - Authors: François Chollet
