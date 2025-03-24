@@ -3,8 +3,12 @@
 
 # Intro to ARC
 
-- [Panel discussion on ARC Prize 2024 (Zurich)](https://www.youtube.com/watch?v=mt3Im4j5iaQ) by 
-MLST.
+- [ARC Prize Version 2 Launch Video!](https://www.youtube.com/watch?v=M3b59lZYBW8) by MLST.
+- Duration: 54m15s.
+
+---
+
+- [Panel discussion on ARC Prize 2024 (Zurich)](https://www.youtube.com/watch?v=mt3Im4j5iaQ) by MLST.
 - Duration: 39m29s.
 
 ---
