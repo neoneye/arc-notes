@@ -3,6 +3,11 @@
 
 # Intro to ARC
 
+- [Announcing: ARC-AGI-2 and ARC Prize 2025](https://www.youtube.com/watch?v=z6cTTkVqAyg) by ARC Prize Team.
+- Duration: 2m29s.
+
+---
+
 - [ARC Prize Version 2 Launch Video!](https://www.youtube.com/watch?v=M3b59lZYBW8) by MLST.
 - Duration: 54m15s.
 
