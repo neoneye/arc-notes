@@ -5,7 +5,7 @@
 ## News and status
 
 * [ARC Prize](https://arcprize.org/) - ARC Prize is a $1,100,000+ public competition to beat and open source a solution to the ARC-AGI benchmark.
-* [Kaggle - ARC Prize 2024](https://www.kaggle.com/competitions/arc-prize-2024) - Submit solutions here.
+* [Kaggle - ARC Prize 2025](https://www.kaggle.com/competitions/arc-prize-2025) - Submit solutions here.
 * [lab42.global/arcathon](https://lab42.global/arcathon/) - This was where ARCathon 2022 and ARCathon 2023 was hosted. ARCathon is now ARC Prize.
 * [ARC Prize - ARC Resources](https://docs.google.com/spreadsheets/d/1fR4cgjY1kNKN_dxiidBQbyT6Gv7_Ko7daKOjlYojwTY/edit?gid=658867951#gid=658867951) - Huge collection of Videos, Repos, Papers, Other.
 * [ARCathon news and publications](https://lab42.global/arcathon/updates/) - The newest publications are interesting to read.
