@@ -15,7 +15,8 @@
 
 ## Leaderboard
 
-* [2024 - Leaderboard - ARC Prize](https://arcprize.org/leaderboard) - Pretty formatted leaderboard.
+* [2025 - Leaderboard - ARC Prize](https://arcprize.org/leaderboard) - Pretty formatted leaderboard.
+* [2025 - Leaderboard - Kaggle](https://www.kaggle.com/competitions/arc-prize-2025/leaderboard) - The usual kaggle style. 
 * [2024 - Leaderboard - Kaggle](https://www.kaggle.com/competitions/arc-prize-2024/leaderboard) - The usual kaggle style. 
 * [2022,2023,2024 - Leaderboard](https://lab42.global/arcathon/leaderboard/) - This may be of historical interest. The best team solved 34 tasks out of 100 hidden tasks. 
 * [2020 - Leaderboard](https://www.kaggle.com/competitions/abstraction-and-reasoning-challenge/leaderboard) - This may be of historical interest. The best team solved 21 tasks out of 100 hidden tasks.
