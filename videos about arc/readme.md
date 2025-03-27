@@ -506,6 +506,11 @@ Discover AI
 
 ---
 
+- [Lecture 5 - The ARC-AGI challenge](https://www.youtube.com/watch?v=Uf6zamkyjCs) by Fausto Carcassi.
+- Duration: 43m50s.
+
+---
+
 - [Road to AGI | Recap 01 | ARC, Neuro-Symbolic AI, Intermediate Language](https://www.youtube.com/watch?v=L2Arjj6LV5M) by Nucleoid AI.
 - Duration: 3m47s.
 - [repo](https://github.com/NucleoidAI/Nucleoid)
