@@ -486,6 +486,11 @@ Discover AI
 
 # Various
 
+- [ARC-AGI-2 task speedrun with spoilers](https://www.youtube.com/watch?v=3ki7oWI18I4) by Simon Strandgaard.
+- Duration: 3m39s.
+
+---
+
 - [How do humans solve ARC tasks, Abstraction & Reasoning Corpus](https://www.youtube.com/watch?v=vQt7UZsYooQ) by Simon Strandgaard.
 - Duration: 1m57s.
 
