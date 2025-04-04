@@ -81,6 +81,9 @@ Jack Cole and Mohamed Osman.
 * [ConceptSearch repo](https://github.com/kksinghal/concept-search), [paper](https://arxiv.org/abs/2412.07322) - by Kartik Singhal, Gautam Shroff.
 * [Enhancing Reasoning Capabilities of Large Language Models Using Agents](https://github.com/asw615/ARC-AGI-Multiagents) - Experiments solving ARC tasks with `gpt-4o`, `claude-3-5` or similar language models.
 
+## Education
+
+* [Fausto Carcassi's ARC Course](https://faustocarcassi.com/arc-course/other_pages/introduction.html), [repo](https://github.com/thelogicalgrammar/arc-course).
 
 ## Videos
 
