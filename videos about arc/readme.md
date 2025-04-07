@@ -516,6 +516,11 @@ Discover AI
 
 ---
 
+- [Mike Knoop (Arc Prize) on Why Scaling AI Won’t Get Us to AGI](https://www.youtube.com/watch?v=YGibh0SuKyo) by TBPN.
+- Duration: 33m32s.
+
+---
+
 - [Lecture 5 - The ARC-AGI challenge](https://www.youtube.com/watch?v=Uf6zamkyjCs) by Fausto Carcassi.
 - Duration: 43m50s.
 
