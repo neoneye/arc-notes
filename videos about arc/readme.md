@@ -506,6 +506,11 @@ Discover AI
 
 ---
 
+- [Top AI Researcher Chollet & Zapier's Knoop: ARC-AGI-2 and the Future of Intelligence](https://www.youtube.com/watch?v=qzb1y9gT0Sg) by The MAD Podcast with Matt Turck.
+- Duration: 1h01m.
+
+---
+
 - [ARC Q&A with François Chollet](https://www.youtube.com/watch?v=dv3uHKmcL_E) by Lab42.
 - Duration: 44m37s.
 
