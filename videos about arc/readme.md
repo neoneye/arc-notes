@@ -162,6 +162,11 @@ Discover AI.
 
 # Interview with the best
 
+- [How Machines Learn to Ignore the Noise (Kevin Ellis + Zenna Tavares)](https://www.youtube.com/watch?v=oYTm0p3DCzg) by MLST.
+- Duration: 1h16m.
+
+---
+
 - [Test-Time Adaptation: the key to reasoning with DL](https://www.youtube.com/watch?v=3p0O28W1ZHg) by MLST.
 - Duration: 1h03m.
 
