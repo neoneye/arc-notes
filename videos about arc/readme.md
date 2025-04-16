@@ -478,6 +478,11 @@ Discover AI
 
 ---
 
+- [Ian Ozsvald - Valuable LLM lessons learnt on Kaggle's ARC AGI Challenge | PyData Global 2024](https://www.youtube.com/watch?v=ft_PYi8A93M) by Ian Ozsvald.
+- Duration: 29m01s.
+
+---
+
 - [GPT 4: The Progress of AI, ConceptARC Challenge AI Paper Explained](https://youtu.be/2ep5-0AlKMA) by Harry Mapodile.
 - Duration: 7m33s.
 
