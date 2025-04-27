@@ -39,6 +39,7 @@
 * [ARC-Interactive](https://neoneye.github.io/arc/), [repo](https://github.com/neoneye/ARC-Interactive), [dataset](https://github.com/neoneye/ARC-Interactive-History-Dataset) - What kind of interactions does humans do when solving an ARC task. This project captures the interaction history and continuesly updates the dataset with interaction histories.
 * [The original ARC testing interface](https://github.com/fchollet/ARC-AGI/tree/master/apps) - Edit train and test pairs. No backend required.
 * [O2ARC](https://o2arc.com/), [repo](https://github.com/GIST-DSLab/O2ARC_V2), [repo](https://github.com/KSB21ST/MINI-ARC/) - Editor with ability to record user interaction while solving an ARC task.
+* [Synthetic Data Generation Interface](https://github.com/artnoage/ARC-AGI-2), [video explanation](https://www.youtube.com/watch?v=iEg6zdMM_K4) - A repurpose of the ARC web interface in order to collectively create synthetic data.
 * [ARCreate](https://arc-editor.lab42.global/) - Contribute with new tasks to the ARC 2 dataset.
 * [ARC-Game](https://volotat.github.io/ARC-Game/), [repo](https://github.com/volotat/ARC-Game) - The ARC 1 dataset made into a fun game that runs in the browser.
 * [basis.ai, ARC - Interactive Solver](https://www.basis.ai/arc_interface/solver) - Solve ARC-AGI puzzles and describe the approach at the moment of submission.
