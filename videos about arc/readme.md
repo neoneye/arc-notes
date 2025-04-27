@@ -516,6 +516,11 @@ Discover AI
 
 ---
 
+- [A web-app/invitation for creating synthetic data for ARC2 challenge.](https://www.youtube.com/watch?v=iEg6zdMM_K4) by vaios laschos.
+- Duration: 6m45s.
+
+---
+
 - [Top AI Researcher Chollet & Zapier's Knoop: ARC-AGI-2 and the Future of Intelligence](https://www.youtube.com/watch?v=qzb1y9gT0Sg) by The MAD Podcast with Matt Turck.
 - Duration: 1h01m.
 
