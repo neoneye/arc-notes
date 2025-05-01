@@ -3,6 +3,11 @@
 
 # Intro to ARC
 
+- [Three Approaches Towards Solving ARC AGI](https://www.youtube.com/watch?v=GbCgyY1laDU) by Trelis Research.
+- Duration: 2h02m.
+
+---
+
 - [Announcing: ARC-AGI-2 and ARC Prize 2025](https://www.youtube.com/watch?v=z6cTTkVqAyg) by ARC Prize Team.
 - Duration: 2m29s.
 
