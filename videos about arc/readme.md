@@ -167,6 +167,11 @@ Discover AI.
 
 # Interview with the best
 
+- [AGI, ARC Challenge, LLMs and AI in Europe by ARC Prize 2024 Winners Jan Disselhoff & Daniel Franzen](https://www.youtube.com/watch?v=6iLYFAkKfwM) by Vivek Juneja.
+- Duration: 57m05s.
+
+---
+
 - [How Machines Learn to Ignore the Noise (Kevin Ellis + Zenna Tavares)](https://www.youtube.com/watch?v=oYTm0p3DCzg) by MLST.
 - Duration: 1h16m.
 
