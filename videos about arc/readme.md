@@ -526,6 +526,11 @@ Discover AI
 
 ---
 
+- [Novel approach to ARC-AGI-2: Pure RL](https://www.youtube.com/watch?v=uwi_kf2WaSY) by Flemish Brabant.
+- Duration: 2h13m.
+
+---
+
 - [A web-app/invitation for creating synthetic data for ARC2 challenge.](https://www.youtube.com/watch?v=iEg6zdMM_K4) by vaios laschos.
 - Duration: 6m45s.
 
