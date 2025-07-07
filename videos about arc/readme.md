@@ -8,6 +8,11 @@
 
 ---
 
+- [State of the Arc, Summer 2025](https://www.youtube.com/watch?v=EaLHN5fOgQw) by Guillermo Barbadillo.
+- Duration: 5m42s.
+
+---
+
 - [François Chollet: How We Get to AGI](https://www.youtube.com/watch?v=5QcCeSsNRks) by Y Combinator.
 - Duration: 34m47s.
 
