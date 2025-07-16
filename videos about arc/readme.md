@@ -3,6 +3,11 @@
 
 # Intro to ARC
 
+- [How to Beat ARC AGI 2?](https://www.youtube.com/watch?v=mirxAEY3oN4) by Trelis Research.
+- Duration: 30m22s.
+
+---
+
 - [Three Approaches Towards Solving ARC AGI](https://www.youtube.com/watch?v=GbCgyY1laDU) by Trelis Research.
 - Duration: 2h02m.
 
