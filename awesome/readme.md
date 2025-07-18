@@ -68,7 +68,7 @@
 
 ## Prompt and language
 
-* [Mark Barney's ARC-AGI Puzzle Explorer](https://arc.markbarney.net/) - Examine a puzzle several LLMs at the same time.
+* [Mark Barney's ARC-AGI Puzzle Explorer](https://arc.markbarney.net/), [repo](https://github.com/82deutschmark/arc-explainer) - Examine a puzzle several LLMs at the same time.
 * [henhouseharry83/arcsolutions](https://github.com/henhouseharry83/arcsolutions) - Excellent overview table with several ARC solvers.
 * [Dataset-Induced Meta-Learning (and other tricks): Improving model efficiency on ARC](https://lab42.global/community-post-model-efficiency/) - by 
 Jack Cole and Mohamed Osman.
