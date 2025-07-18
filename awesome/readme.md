@@ -8,6 +8,7 @@
 * [Kaggle - ARC Prize 2025](https://www.kaggle.com/competitions/arc-prize-2025) - Submit solutions here.
 * [lab42.global/arcathon](https://lab42.global/arcathon/) - This was where ARCathon 2022 and ARCathon 2023 was hosted. ARCathon is now ARC Prize.
 * [ARC Prize - ARC Resources](https://docs.google.com/spreadsheets/d/1fR4cgjY1kNKN_dxiidBQbyT6Gv7_Ko7daKOjlYojwTY/edit?gid=658867951#gid=658867951) - Huge collection of Videos, Repos, Papers, Other.
+* [Navigating ARC-AGI: From Zero to One](https://arahim3.github.io/arc-agi-guide/) - Starting point for newcomers.
 * [ARCathon news and publications](https://lab42.global/arcathon/updates/) - The newest publications are interesting to read.
 * [Dataset-Induced Meta-Learning and other tricks: Improving model efficiency on ARC](https://lab42.global/community-post-model-efficiency/) - What is status of ARC in late 2023.
 * [ARC: Interview with Jack Cole](https://lab42.global/community-interview-jack-cole/) - Status of ARC early 2024. Interview with the ARC World Record Holder, Jack Cole, solving 34 of the 100 hidden tasks.
