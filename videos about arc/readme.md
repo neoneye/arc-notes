@@ -13,6 +13,11 @@
 
 ---
 
+- [ARC-AGI-3: Agent Tutorial](https://www.youtube.com/watch?v=xEVg9dcJMkw) by ARC Prize.
+- Duration: 11m05s.
+
+---
+
 - [State of the Arc, Summer 2025](https://www.youtube.com/watch?v=EaLHN5fOgQw) by Guillermo Barbadillo.
 - Duration: 5m42s.
 
