@@ -13,6 +13,11 @@
 
 ---
 
+- [ARC-AGI-3: The Interactive Reasoning Benchmark](https://www.youtube.com/watch?v=3vFu79ccDcc) by Latent Space.
+- Duration: 39m40s.
+
+---
+
 - [ARC-AGI-3: Agent Tutorial](https://www.youtube.com/watch?v=xEVg9dcJMkw) by ARC Prize.
 - Duration: 11m05s.
 
