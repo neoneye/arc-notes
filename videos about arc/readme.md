@@ -23,6 +23,11 @@
 
 ---
 
+- [Measuring AGI: Interactive Reasoning Benchmarks for ARC-AGI-3 — Greg Kamradt, ARC Prize Foundation](https://www.youtube.com/watch?v=3XmFPwjG8pg) by AI Engineer.
+- Duration: 18m27s.
+
+---
+
 - [State of the Arc, Summer 2025](https://www.youtube.com/watch?v=EaLHN5fOgQw) by Guillermo Barbadillo.
 - Duration: 5m42s.
 
