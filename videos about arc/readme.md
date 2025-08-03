@@ -356,6 +356,11 @@ Discover AI.
 
 # Discussion
 
+- [ARC-CDG: The Curriculum Dataset Generator for ARC-AGI](https://www.youtube.com/watch?v=WXxzXA8eK3M) by Gijs Schenk.
+- Duration: 1m14s.
+
+---
+
 - [ARC Prize University Tour @ BU](https://www.youtube.com/watch?v=JEFS-DtG9dM) presentation by Mark Knoop + François Chollet.
 - Duration: 1h04m.
 
