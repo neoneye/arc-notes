@@ -474,8 +474,12 @@ Discover AI.
 
 # Using language models / transformers
 
-- [TEST TIME Optimized AI REASONING (MIT)](https://www.youtube.com/watch?v=3ea2O7qfPjo) - 
-Discover AI
+- [Reasoning without Language - Deep Dive into 27 mil parameter Hierarchical Reasoning Model](https://www.youtube.com/watch?v=DvZ8jZ-laj4) by John Tan Chong Min
+- Duration: 1h38m.
+
+---
+
+- [TEST TIME Optimized AI REASONING (MIT)](https://www.youtube.com/watch?v=3ea2O7qfPjo) by Discover AI
 - Duration: 28m04s.
 
 ---
