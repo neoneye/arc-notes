@@ -474,8 +474,10 @@ Discover AI.
 
 # Using language models / transformers
 
-- [Reasoning without Language - Deep Dive into 27 mil parameter Hierarchical Reasoning Model](https://www.youtube.com/watch?v=DvZ8jZ-laj4) by John Tan Chong Min
+- [Reasoning without Language (Part 1) - Deep Dive into 27 mil parameter Hierarchical Reasoning Model](https://www.youtube.com/watch?v=DvZ8jZ-laj4) by John Tan Chong Min
 - Duration: 1h38m.
+- [Reasoning without Language (Part 2) - Deep Dive into 27 mil parameter Hierarchical Reasoning Model](https://www.youtube.com/watch?v=ZkBEIHZsnGM) by John Tan Chong Min
+- Duration: 2h39m.
 
 ---
 
