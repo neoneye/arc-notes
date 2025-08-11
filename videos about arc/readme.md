@@ -23,6 +23,11 @@
 
 ---
 
+- [Interactive Reasoning Benchmarks | ARC-AGI-3 Preview](https://www.youtube.com/watch?v=3T4OwBp6d90) by ARC Prize.
+- Duration: 17m19s.
+
+---
+
 - [Measuring AGI: Interactive Reasoning Benchmarks for ARC-AGI-3 — Greg Kamradt, ARC Prize Foundation](https://www.youtube.com/watch?v=3XmFPwjG8pg) by AI Engineer.
 - Duration: 18m27s.
 
