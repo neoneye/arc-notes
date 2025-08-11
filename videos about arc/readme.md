@@ -3,6 +3,11 @@
 
 # Intro to ARC
 
+- ["I've updated my AGI timeline" | Francois Chollet + Dwarkesh Patel](https://www.youtube.com/watch?v=1if6XbzD5Yg) by ARC Prize.
+- Duration: 23m46s.
+
+---
+
 - [How to Beat ARC AGI 2?](https://www.youtube.com/watch?v=mirxAEY3oN4) by Trelis Research.
 - Duration: 30m22s.
 
