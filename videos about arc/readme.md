@@ -557,6 +557,11 @@ Discover AI.
 
 # Various
 
+- [Livestream | Etienne Guichard | ARC-AGI: Solutions to the Abstraction and Reasoning Corpus](https://www.youtube.com/watch?v=lwEDIUMEkuY) by Wolfram Institute.
+- Duration: 1h54m.
+
+---
+
 - [ARC-AGI-2 task speedrun with spoilers](https://www.youtube.com/watch?v=3ki7oWI18I4) by Simon Strandgaard.
 - Duration: 3m39s.
 
