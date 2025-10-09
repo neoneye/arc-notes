@@ -3,6 +3,11 @@
 
 # Intro to ARC
 
+- [Measuring Agents With Interactive Evaluations](https://www.youtube.com/watch?v=TK9MN22q6E0) by OpenAI.
+- Duration: 21m04s.
+
+---
+
 - ["I've updated my AGI timeline" | Francois Chollet + Dwarkesh Patel](https://www.youtube.com/watch?v=1if6XbzD5Yg) by ARC Prize.
 - Duration: 23m46s.
 
