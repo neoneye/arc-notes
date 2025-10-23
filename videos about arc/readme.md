@@ -13,6 +13,11 @@
 
 ---
 
+- [ARC-AGI-3 and Action Efficiency | ARC Prize @ MIT](https://www.youtube.com/watch?v=bqNfIHedb3g) by ARC Prize.
+- Duration: 16m09s.
+
+---
+
 - [How to Beat ARC AGI 2?](https://www.youtube.com/watch?v=mirxAEY3oN4) by Trelis Research.
 - Duration: 30m22s.
 
