@@ -18,6 +18,11 @@
 
 ---
 
+- [Francois Chollet + Mike Knoop | ARC Prize @ MIT](https://www.youtube.com/watch?v=1u2DkoqEfhk) by ARC Prize.
+- Duration: 20m07s.
+
+---
+
 - [How to Beat ARC AGI 2?](https://www.youtube.com/watch?v=mirxAEY3oN4) by Trelis Research.
 - Duration: 30m22s.
 
