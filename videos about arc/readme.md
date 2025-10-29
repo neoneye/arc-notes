@@ -210,14 +210,18 @@ Discover AI.
 
 ---
 
-- [I tried to solve ARC-AGI as an Average Human!!!)](https://www.youtube.com/watch?v=muzl7IaSUtc) by 
-1littlecoder.
+- [I tried to solve ARC-AGI as an Average Human!!!)](https://www.youtube.com/watch?v=muzl7IaSUtc) by 1littlecoder.
 - Duration: 38m50s.
 
 ---
 
+- [Playful Problem Solving | ARC Prize @ MIT](https://www.youtube.com/watch?v=GRBX0Ii2c58) by Junyi Chu.
+- Duration: 10m00s.
+
+---
+
 - [The Hardest Kaggle Challenge](https://youtu.be/K5KDZLHsr1o) by Siraj Raval.
-- Duration: 40m253.
+- Duration: 40m25s.
 
 
 # Interview with the best
