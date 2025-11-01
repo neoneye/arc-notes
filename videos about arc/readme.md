@@ -576,6 +576,11 @@ Discover AI.
 
 # Various
 
+- [Building LMs that can model the world and model themselves | ARC Prize @ MIT](https://www.youtube.com/watch?v=93DRgpoXgrw) by Jacob Andreas.
+- Duration: 12m21s.
+
+---
+
 - [Livestream | Etienne Guichard | ARC-AGI: Solutions to the Abstraction and Reasoning Corpus](https://www.youtube.com/watch?v=lwEDIUMEkuY) by Wolfram Institute.
 - Duration: 1h54m.
 
