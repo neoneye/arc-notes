@@ -23,6 +23,11 @@
 
 ---
 
+- ["How to measure intelligence?" | Six researchers debate](https://www.youtube.com/watch?v=9RnKGRDhCyo) by ARC Prize.
+- Duration: 45m02s.
+
+---
+
 - [How to Beat ARC AGI 2?](https://www.youtube.com/watch?v=mirxAEY3oN4) by Trelis Research.
 - Duration: 30m22s.
 
