@@ -581,6 +581,21 @@ Discover AI.
 
 # Various
 
+- [Tiny Recursion Models - Presentation @ Mila](https://www.youtube.com/watch?v=ETukUNsn_wQ) by Alexia.
+- Duration: 52m07s.
+
+---
+
+- [Post-training TRM & A Retrospective on ARC Prize 2025](https://www.youtube.com/watch?v=8RUzN9odRzI) by Trelis Research.
+- Duration: 1h38m.
+
+---
+
+- [Solving ARC Tasks by Writing Python Programs](https://www.youtube.com/watch?v=ev2XuAktWpM) by Trelis Research.
+- Duration: 1h07m.
+
+---
+
 - [Building LMs that can model the world and model themselves | ARC Prize @ MIT](https://www.youtube.com/watch?v=93DRgpoXgrw) by Jacob Andreas.
 - Duration: 12m21s.
 
