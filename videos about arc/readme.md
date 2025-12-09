@@ -231,6 +231,51 @@ Discover AI.
 
 # Interview with the best
 
+- [An Interview with NVARC - 2025 ARC Prize Competition Winner](https://www.youtube.com/watch?v=gjgizK7veRw) by Trelis Research.
+- Duration: 1h07m.
+
+---
+
+- [ARC Prize 2025 Top Score 1st Place NVARC](https://www.youtube.com/watch?v=t-mIRJJCbKg) by ARC Prize.
+- Duration: 36m03s.
+
+---
+
+- [ARC Prize 2025 Top Score 2nd Place the ARChitects](https://www.youtube.com/watch?v=CcoGi47qD-w) by ARC Prize.
+- Duration: 38m41s.
+
+---
+
+- [ARC Prize 2025 Top Score 3rd Place MindsAI](https://www.youtube.com/watch?v=3lXXfNsWIgo) by ARC Prize.
+- Duration: 48m30s.
+
+---
+
+- [ARC Prize 2025 Top Score 3rd Place MindsAI](https://www.youtube.com/watch?v=3lXXfNsWIgo) by ARC Prize.
+- Duration: 48m30s.
+
+---
+
+- [ARC Prize 2025 Paper Award 1st Place TRM](https://www.youtube.com/watch?v=P9zzUM0PrBM) by ARC Prize.
+- Duration: 39m07s.
+
+---
+
+- [ARC Prize 2025 Paper Award 2nd Place SOAR](https://www.youtube.com/watch?v=9lIuoslCHWI) by ARC Prize.
+- Duration: 35m06s.
+
+---
+
+- [ARC Prize 2025 Paper Award 2nd Place SOAR](https://www.youtube.com/watch?v=9lIuoslCHWI) by ARC Prize.
+- Duration: 35m06s.
+
+---
+
+- [ARC Prize 2025 Paper Award 3rd Place ARC without Pretraining](https://www.youtube.com/watch?v=N9GvFj0cE9s) by ARC Prize.
+- Duration: 37m50s.
+
+---
+
 - [AGI, ARC Challenge, LLMs and AI in Europe by ARC Prize 2024 Winners Jan Disselhoff & Daniel Franzen](https://www.youtube.com/watch?v=6iLYFAkKfwM) by Vivek Juneja.
 - Duration: 57m05s.
 
